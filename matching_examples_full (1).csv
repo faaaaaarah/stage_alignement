@@ -1,0 +1,1201 @@
+df1_index,df2_index,df1_name,df2_name,Blood_Type,Gender,Age_df1,Age_df2,similarity_score,status
+18762,18762,michael kent,michael kent,A+,F,62,63,0.95,match
+9972,17139,tracy santos,jeffrey santos,O+,M,84,84,0.861,ambiguous
+4905,779,daniel oconnor,daniel wolf,AB+,M,75,75,0.87,ambiguous
+763,29673,jacob mcdonald,jacob macdonald,B+,F,18,16,0.887,ambiguous
+18270,13158,jason johnson,nathan johnson,A-,M,58,57,0.883,ambiguous
+20125,34576,shawn williams,dana williams,B+,M,43,44,0.865,ambiguous
+12128,44115,lori stewart,rachel stewart,AB+,F,27,28,0.883,ambiguous
+6298,34401,alicia roberts,jackie roberts,O+,M,57,58,0.856,ambiguous
+53690,18822,edward williams,taylor williams,A-,M,65,66,0.879,ambiguous
+34509,29271,richard johnston,richard gordon,O-,M,37,37,0.879,ambiguous
+5441,47325,robert hernandez,robert hernandez,O+,M,32,33,0.9,match
+24709,19964,david rangel,david blake,A+,M,84,85,0.865,ambiguous
+33086,12842,brian baker,brian brooks,B-,F,62,61,0.865,ambiguous
+15331,15331,samuel stevenson,samuel stevenson,AB+,F,19,20,0.95,match
+48932,20981,samantha miller,samantha fox,O+,M,57,57,0.86,ambiguous
+11750,19690,haley williams,andrew williams,A-,F,32,33,0.892,ambiguous
+31039,52508,john anderson,john hunter,O+,M,22,21,0.852,ambiguous
+9200,18886,karen clark,howard clark,A+,M,34,33,0.865,ambiguous
+3165,18400,cheryl figueroa,jeremy figueroa,AB-,M,70,69,0.91,match
+50003,50003,nicholas hunt,nicholas hunt,O-,M,22,21,1.0,match
+48164,50933,michael lutz,michael kim,O+,M,36,35,0.851,ambiguous
+39429,49143,heather jimenez,meghan jimenez,AB-,F,26,25,0.861,ambiguous
+30536,24910,michelle murphy,michelle ramirez,B-,M,55,55,0.87,ambiguous
+1966,1966,zachary hernandez,zachary hernandez,O-,M,62,63,0.95,match
+8493,10123,andrea meyers,andrea meyer,A+,M,42,44,0.882,ambiguous
+35935,19557,michelle combs,michelle hoover,O-,F,81,82,0.879,ambiguous
+15133,53876,karen miller,derek miller,O+,M,38,39,0.888,ambiguous
+4638,39835,jonathan blankenship,jonathan stone,O+,F,70,69,0.879,ambiguous
+33154,33154,brandy garcia,brandy garcia,O+,F,59,59,0.95,match
+38226,13397,marc morrison,mark morrison,O+,M,80,80,0.864,ambiguous
+35937,26390,stephanie cantu,stephanie ford,A-,F,37,38,0.851,ambiguous
+2107,4512,stephanie palmer,stephanie black,B+,M,78,78,0.888,ambiguous
+30206,19724,adam patterson,david patterson,A+,F,75,74,0.873,ambiguous
+42742,18268,william bryan,william bryant,A+,F,66,66,0.982,match
+28639,54669,jessica johnston,erik johnson,A+,F,54,55,0.87,ambiguous
+18388,37530,brooke richardson,amy richardson,B-,F,49,49,0.923,match
+23513,49314,bonnie gonzalez,jean gonzalez,A+,F,32,31,0.892,ambiguous
+12183,35636,anthony meyer,anthony holmes,A+,M,59,59,0.883,ambiguous
+38162,49075,mary anderson,maria anderson,AB+,F,45,47,0.851,ambiguous
+2418,42783,christopher rivers,christopher rivera,O+,F,78,77,0.873,ambiguous
+17759,25083,lisa garcia,luis garcia,A+,M,40,38,0.86,ambiguous
+42421,30386,victoria brown,victoria brown,A+,F,39,40,0.9,match
+51412,51412,tanya navarro,tanya navarro,A+,M,24,23,1.0,match
+30336,51540,mark jackson,mark jackson,O-,M,57,56,0.9,match
+47971,33789,timothy martinez,timothy martinez,A+,F,35,36,0.9,match
+32624,42463,james brown,james roach,O+,M,50,50,0.879,ambiguous
+24472,23733,janet allen,janet farley,O+,M,55,54,0.851,ambiguous
+42051,7428,christopher moore,christopher tucker,O-,M,57,56,0.856,ambiguous
+3201,3201,arthur gomez,arthur gomez,B+,F,79,79,0.95,match
+44572,38777,russell stewart,russell barnes,B+,F,34,34,0.861,ambiguous
+18076,18076,jennifer oliver,jennifer oliver,O+,M,32,31,0.95,match
+15339,15264,michael barron md,michael kim,O+,M,46,46,0.901,match
+40501,18497,christine scott,christine clark,A-,F,38,39,0.888,ambiguous
+45200,36376,dale williams,april williams,B-,F,76,75,0.915,match
+22482,23533,levi hernandez,stephen hernandez,A+,M,24,25,0.901,match
+33281,6240,robert hall,roberto alvarez,O+,F,54,53,0.861,ambiguous
+16076,8619,christopher williams,christopher grant,A+,M,32,33,0.906,match
+55068,48238,mr richard green,richard green,A+,M,83,83,0.9,match
+4450,46766,sarah vazquez,sarah evans,A-,F,43,44,0.852,ambiguous
+12918,5044,michael may,michael lee,O+,F,68,67,0.851,ambiguous
+46213,1095,justin fleming,justin lewis,A+,M,67,66,0.897,ambiguous
+16096,27699,matthew gray,matthew turner,AB-,F,56,57,0.883,ambiguous
+42600,36755,micheal owen,michael owen,B-,F,82,80,0.864,ambiguous
+41350,11533,maurice pace,maurice campbell,O+,F,31,30,0.883,ambiguous
+37736,37736,brian bailey,brian bailey,A+,M,63,64,0.95,match
+37583,4143,james davis,michael davis,O-,F,59,58,0.852,ambiguous
+30843,53209,jennifer smith,jennifer turner,B+,M,67,67,0.879,ambiguous
+49918,39586,todd holmes,lori holmes,O+,F,51,51,0.879,ambiguous
+55499,55499,james garcia,james garcia,O+,F,53,53,1.0,match
+5963,5963,danielle thompson,danielle thompson,B+,M,49,48,1.0,match
+17741,43098,james brown,james barker,A+,F,19,18,0.865,ambiguous
+36227,7234,john walton,john swanson,O+,M,38,39,0.901,match
+37599,45405,kayla willis,kayla williams,A+,M,74,76,0.864,ambiguous
+34277,11630,joe brown,alex brown,O+,F,37,38,0.883,ambiguous
+26500,2407,andrea rodriguez,mark rodriguez,AB+,M,44,43,0.91,match
+24256,37161,john butler,john hunter,O+,F,20,21,0.919,match
+23529,24835,brittany bernard,brittany lambert,B+,M,59,60,0.888,ambiguous
+37788,45786,jessica martinez,jessica martin,A+,M,57,58,0.869,ambiguous
+14270,50257,angela merritt,angela moore,O+,F,38,37,0.861,ambiguous
+19494,19494,erica warren,erica warren,B+,M,81,81,0.95,match
+18422,29241,anthony jackson,tony jackson,O+,F,61,60,0.851,ambiguous
+36138,32896,daniel hayes,daniel holt,A+,M,71,72,0.87,ambiguous
+48618,27619,mr nathan rodriguez md,david rodriguez,A-,F,69,69,0.888,ambiguous
+23884,27716,christopher hatfield,christopher mcdonald,B-,M,28,28,0.888,ambiguous
+16150,22725,christopher turner,christopher weber,AB-,F,57,58,0.91,match
+51143,7902,james ray,james anderson,O+,M,64,65,0.87,ambiguous
+28763,27369,jennifer foster,jennifer klein,AB+,F,73,73,0.879,ambiguous
+27064,15932,james valencia,joseph valencia,O+,F,60,59,0.892,ambiguous
+38176,38176,drew ali,drew ali,B-,F,64,64,1.0,match
+43169,43169,kelly mitchell,kelly mitchell,O+,M,52,51,0.95,match
+35516,24784,christopher nunez,christopher johnson,A+,F,52,51,0.856,ambiguous
+51297,34716,william stewart,william stewart,A-,F,32,32,0.95,match
+19861,18352,christopher wilson,christopher hooper,B-,F,65,65,0.892,ambiguous
+3411,43726,christopher brown,christopher ramirez,B+,M,76,75,0.856,ambiguous
+13654,2920,megan williams,william davis,O+,M,57,57,0.852,ambiguous
+18545,18545,nathan schmidt,nathan schmidt,A+,M,39,39,0.95,match
+11553,13125,sarah romero,pamela romero,A+,F,40,40,0.874,ambiguous
+22908,36729,joseph harris,joseph mays,O+,F,25,26,0.888,ambiguous
+53528,53528,elizabeth castillo,elizabeth castillo,AB-,M,13,13,0.95,match
+18739,18739,marcus parks,marcus parks,A+,M,34,34,1.0,match
+28708,48900,kimberly reyes,kimberly grant,B-,M,45,45,0.879,ambiguous
+32480,32480,henry ramirez,henry ramirez,A+,M,19,20,1.0,match
+15531,493,evan johnson,joshua johnson,O+,M,61,61,0.883,ambiguous
+25795,3125,bob johnson,charles johnson,B-,F,70,70,0.901,match
+9948,9948,heidi lewis,heidi lewis,AB+,M,68,68,1.0,match
+35835,6402,caleb perez,daniel perez,A+,M,75,76,0.865,ambiguous
+14191,33048,reginald fischer,reginald fisher,B+,M,66,64,0.887,ambiguous
+1898,41104,charles mcdowell,charles lee,O+,M,77,78,0.901,match
+24943,32708,joseph johnson,kathy johnson,O-,F,62,61,0.865,ambiguous
+35361,35361,douglas gonzalez,douglas gonzalez,O-,M,22,21,0.95,match
+19281,49313,taylor kelly,taylor kelly,O+,F,19,20,0.9,match
+55114,37627,jessica fry,jessica johnson,AB-,M,54,54,0.901,match
+47275,53057,james simpson,james campos,A-,M,33,32,0.874,ambiguous
+25708,43543,elizabeth jackson,jamie jackson,O+,F,47,46,0.865,ambiguous
+2641,12994,samantha smith,samantha smith,B-,F,68,67,0.9,match
+33952,33952,wesley lawrence,wesley lawrence,O+,M,46,46,1.0,match
+7743,53437,mark miller,mary miller,O-,M,36,36,0.86,ambiguous
+20960,19116,julie palmer,julie perez,B-,M,65,65,0.851,ambiguous
+23604,20657,jennifer jordan,jennifer johnson,B+,F,44,43,0.897,ambiguous
+29797,6090,daniel lee,danielle lee,A+,F,25,27,0.86,ambiguous
+44653,45575,danny rodriguez,brian rodriguez,AB-,M,81,80,0.91,match
+21075,55253,phillip walker,phillip walker,A+,M,35,34,1.0,match
+19862,19862,maria ford,maria ford,B-,M,69,69,1.0,match
+49246,51346,jessica shelton,jessica shelton,A+,M,36,35,0.95,match
+46518,46518,jeffrey gibson,jeffrey gibson,A-,M,55,56,1.0,match
+17327,1580,michael bell,michael hill,O+,M,36,35,0.923,match
+55477,39541,sue edwards,sue edwards,O+,M,56,56,0.95,match
+42296,41979,mikayla smith,taylor smith,B+,F,78,79,0.874,ambiguous
+23955,31737,sheri clark,erin clark,A-,F,42,43,0.937,match
+33959,36734,christina smith,kristina mills,O+,M,29,31,0.861,ambiguous
+14194,14194,jeremy clark,jeremy clark,B+,F,18,19,0.95,match
+24076,3674,mr christopher gonzales,christopher cain,B-,M,75,74,0.865,ambiguous
+46235,52606,christine wilson,christine williams,O+,M,70,71,0.869,ambiguous
+25920,25920,ronald haney,ronald haney,O+,F,56,57,1.0,match
+20554,52284,jamie lopez,jamie taylor,O+,M,18,17,0.865,ambiguous
+31618,10939,christopher ross,christopher martin,B+,M,41,40,0.915,match
+36433,12942,matthew snow md,matthew kim,O+,M,70,70,0.851,ambiguous
+14367,44955,crystal chambers,crystal chapman,O+,M,72,71,0.897,ambiguous
+54650,27740,david lopez,david spencer,AB+,F,46,48,0.852,ambiguous
+34986,45951,gary myers,ryan myers,B-,M,60,60,0.91,match
+41856,41856,megan baker,megan baker,AB+,M,74,73,1.0,match
+14676,8970,michael reyes,michael reyes,O+,M,31,33,0.9,match
+41809,41809,david ferguson,david ferguson,O+,F,62,63,0.95,match
+741,40402,christina miller,christina fox,O+,F,21,22,0.869,ambiguous
+6047,36240,catherine jones,catherine jones,O+,M,41,42,0.9,match
+9852,6496,sandra simmons,wanda simmons,A-,M,33,33,0.851,ambiguous
+20353,40109,jessica jones,casey jones,AB-,F,46,46,0.852,ambiguous
+33178,8714,jennifer mcclure,jennifer moore,A-,M,64,63,0.86,ambiguous
+30351,30351,curtis bell,curtis bell,B+,F,60,59,1.0,match
+18446,22863,jennifer hernandez,jennifer hernandez,O+,M,71,71,0.9,match
+46015,35107,lisa robinson,jessica robinson,A+,M,58,58,0.892,ambiguous
+19843,16148,todd rangel,jordan rangel,A+,F,55,56,0.888,ambiguous
+3125,25795,charles johnson,bob johnson,O-,M,39,40,0.901,match
+16601,41016,lauren parker,lauren cook,A+,M,76,76,0.87,ambiguous
+55362,37831,christina wright,christina king,O-,F,27,28,0.91,match
+10992,48301,amy anderson,carol anderson,A+,F,35,34,0.91,match
+36187,15606,sara carter,lisa carter,O+,F,30,31,0.919,match
+12820,12820,brenda charles,brenda charles,A+,F,66,65,1.0,match
+15643,16258,ashley king,ashley king,A-,M,33,32,0.9,match
+15461,31573,mary glenn,mary green,O-,F,49,49,0.86,ambiguous
+30032,30032,ashley perez,ashley perez,A-,M,22,21,1.0,match
+7117,7117,michael mcdonald,michael mcdonald,A+,M,27,26,0.95,match
+29495,48384,jennifer herman,jennifer cross,A+,M,41,41,0.879,ambiguous
+20034,20034,javier clark,javier clark,A+,M,51,50,0.95,match
+33842,44710,michael hanson,michael anthony,B-,F,52,51,0.923,match
+801,34884,katherine kelly,katherine lyons,B-,F,65,65,0.86,ambiguous
+3271,22910,jason sanders,stephanie sanders,O+,F,30,31,0.865,ambiguous
+26273,26273,anna graham,anna graham,O+,M,37,38,1.0,match
+41560,17631,michael ford,michelle ford,O+,F,67,66,0.946,match
+43363,21114,eric miller,michelle miller,A+,M,64,65,0.87,ambiguous
+29639,22028,robert parker,robert park,AB-,M,63,65,0.864,ambiguous
+8534,8534,christopher bell,christopher bell,A-,F,23,24,1.0,match
+42145,25938,justin smith,justin thomas,B-,M,30,31,0.874,ambiguous
+53567,12980,christopher moore,christopher parks,O+,F,54,54,0.906,match
+31137,31137,rebecca smith,rebecca smith,O-,F,60,60,0.95,match
+4527,4527,andrew wilkerson,andrew wilkerson,A+,M,49,50,1.0,match
+29608,35058,mark johnson,mark johnson,A+,F,67,69,0.9,match
+35403,39645,thomas rodriguez,thomas gray,A+,F,22,21,0.87,ambiguous
+20581,19803,angela rogers,angela lang,A+,M,26,27,0.87,ambiguous
+4435,4435,cheryl cannon,cheryl cannon,A-,F,44,43,1.0,match
+42873,5137,alec flores,james flores,O+,F,62,62,0.851,ambiguous
+50447,45978,diane clark,diane clark,B-,F,53,54,0.95,match
+54675,2311,edward clark,edward clark,B+,M,72,72,1.0,match
+13086,43680,thomas rodriguez,nicholas rodriguez,B-,F,38,37,0.919,match
+30182,12879,michael gaines,michael james,O-,F,55,54,0.865,ambiguous
+34955,34955,john turner,john turner,O+,M,45,46,1.0,match
+50459,39128,jennifer lee,jennifer lee,O+,F,66,66,0.95,match
+29111,2321,bryan johnson,victoria johnson,A+,M,27,27,0.865,ambiguous
+50975,8926,david perez,david hernandez,O+,F,48,49,0.897,ambiguous
+47647,25485,christopher abbott,christopher velazquez,A+,F,59,60,0.892,ambiguous
+16407,13395,lisa randall,lisa bird,O+,M,21,21,0.852,ambiguous
+17509,29592,tina harris,mackenzie harris,O+,F,75,76,0.87,ambiguous
+8535,43437,jerry hudson,terry hudson,B-,M,62,63,0.864,ambiguous
+52673,32099,daniel jones,david jones,A+,F,49,49,0.851,ambiguous
+42495,24988,jessica williams,meghan williams,A+,F,58,58,0.87,ambiguous
+54624,54624,melinda myers,melinda myers,A+,M,74,73,1.0,match
+17692,48710,allison smith,melvin smith,O+,F,64,63,0.874,ambiguous
+13167,16342,luis hernandez,joshua hernandez,A+,F,43,44,0.901,match
+17471,17471,carl cooper,carl cooper,AB-,F,68,67,0.95,match
+26584,26584,kenneth parker,kenneth parker,A+,M,68,69,0.95,match
+0,17664,bobby jackson,elizabeth maxwell,B- vs O+,M vs M,30,37,0.14,no match
+0,48969,bobby jackson,jordan lopez,B- vs O+,M vs F,30,6,0.108,no match
+0,35162,bobby jackson,stefanie sullivan,B- vs AB-,M vs M,30,25,0.29,no match
+0,44830,bobby jackson,joshua parks,B- vs O+,M vs F,30,79,0.18,no match
+0,35172,bobby jackson,hannah shelton,B- vs AB+,M vs F,30,45,0.135,no match
+1,30205,leslie terry,tina kelly,A+ vs B+,M vs M,62,61,0.462,no match
+1,38715,leslie terry,kathryn savage,A+ vs A+,M vs F,62,27,0.254,no match
+1,21363,leslie terry,tiffany castillo,A+ vs A-,M vs M,62,50,0.212,no match
+1,34943,leslie terry,justin mcfarland,A+ vs O+,M vs F,62,65,0.28,no match
+1,9797,leslie terry,justin obrien,A+ vs O+,M vs M,62,17,0.194,no match
+2,21678,danny smith,zoe jackson,A- vs B+,F vs M,76,42,0.122,no match
+2,2504,danny smith,michael price,A- vs A+,F vs F,76,10,0.163,no match
+2,11601,danny smith,eric nolan,A- vs B+,F vs M,76,62,0.086,no match
+2,44745,danny smith,shelby adams,A- vs B+,F vs F,76,29,0.243,no match
+2,42972,danny smith,john whitaker,A- vs B+,F vs F,76,56,0.199,no match
+3,33259,andrew watts,madison long,O+ vs A+,F vs F,28,43,0.199,no match
+3,53340,andrew watts,nicholas singh,O+ vs O+,F vs F,28,83,0.303,no match
+3,50504,andrew watts,heather frederick,O+ vs AB+,F vs F,28,41,0.203,no match
+3,20337,andrew watts,katherine williams,O+ vs AB-,F vs M,28,18,0.211,no match
+3,24105,andrew watts,gerald jones,O+ vs A+,F vs M,28,34,0.149,no match
+4,25382,adrienne bell,travis smith,AB+ vs A+,F vs M,43,69,0.072,no match
+4,26758,adrienne bell,melissa turner,AB+ vs B-,F vs F,43,78,0.185,no match
+4,42675,adrienne bell,vicki ramos,AB+ vs A+,F vs F,43,58,0.127,no match
+4,51574,adrienne bell,timothy reynolds,AB+ vs B-,F vs F,43,21,0.176,no match
+4,34047,adrienne bell,todd davis,AB+ vs O+,F vs F,43,83,0.167,no match
+5,39377,emily johnson,christopher wagner,A+ vs A-,M vs M,36,79,0.167,no match
+5,34250,emily johnson,martin barber,A+ vs O+,M vs F,36,53,0.14,no match
+5,32745,emily johnson,eric hudson,A+ vs O+,M vs M,36,13,0.311,no match
+5,49032,emily johnson,adam collins,A+ vs A+,M vs F,36,74,0.43,no match
+5,46259,emily johnson,rebecca smith dds,A+ vs A+,M vs F,36,30,0.272,no match
+6,52700,edward edwards,faith wilson,AB- vs A+,F vs F,21,21,0.289,no match
+6,35338,edward edwards,kevin frazier,AB- vs O-,F vs F,21,66,0.185,no match
+6,47926,edward edwards,fernando shelton,AB- vs O+,F vs M,21,78,0.149,no match
+6,23764,edward edwards,miranda west,AB- vs O+,F vs F,21,62,0.221,no match
+6,45178,edward edwards,johnathan molina,AB- vs O-,F vs M,21,54,0.09,no match
+7,35950,christina martinez,kimberly juarez,A+ vs A-,F vs M,20,45,0.108,no match
+7,17119,christina martinez,daniel castillo,A+ vs O+,F vs F,20,78,0.266,no match
+7,18745,christina martinez,gregory pierce,A+ vs A+,F vs M,20,49,0.263,no match
+7,3102,christina martinez,paula butler,A+ vs A-,F vs M,20,45,0.09,no match
+7,54414,christina martinez,norman stokes,A+ vs A+,F vs M,20,18,0.394,no match
+8,33338,jasmine aguilar,shelby price,AB+ vs A+,M vs M,82,15,0.185,no match
+8,17803,jasmine aguilar,steven mendoza,AB+ vs O+,M vs F,82,82,0.226,no match
+8,5680,jasmine aguilar,kathleen freeman,AB+ vs O+,M vs M,82,14,0.167,no match
+8,50556,jasmine aguilar,stephanie hughes,AB+ vs O+,M vs F,82,40,0.144,no match
+8,6969,jasmine aguilar,gary burton,AB+ vs O+,M vs M,82,33,0.19,no match
+9,13052,christopher berg,tony vazquez,AB- vs O+,F vs F,58,11,0.145,no match
+9,41714,christopher berg,dwayne curtis,AB- vs O-,F vs F,58,73,0.203,no match
+9,12698,christopher berg,thomas johnson,AB- vs A+,F vs M,58,25,0.122,no match
+9,27008,christopher berg,megan carter,AB- vs AB+,F vs M,58,58,0.262,no match
+9,37798,christopher berg,kimberly patel,AB- vs A+,F vs M,58,25,0.18,no match
+10,25326,michelle daniels,dana pittman,O+ vs A+,M vs F,72,63,0.162,no match
+10,21671,michelle daniels,dr luis arias dds,O+ vs O+,M vs F,72,69,0.285,no match
+10,5895,michelle daniels,michael evans,O+ vs B+,M vs F,72,31,0.31,no match
+10,26493,michelle daniels,harold smith,O+ vs A+,M vs F,72,55,0.293,no match
+10,52027,michelle daniels,penny stephens,O+ vs AB-,M vs M,72,49,0.172,no match
+11,49007,aaron martinez,jeffrey brown,A- vs AB-,F vs M,38,32,0.298,no match
+11,44341,aaron martinez,randall melendez,A- vs B+,F vs F,38,79,0.172,no match
+11,612,aaron martinez,joseph madden,A- vs O+,F vs M,38,11,0.167,no match
+11,1673,aaron martinez,mr ryan williams,A- vs A+,F vs F,38,57,0.172,no match
+11,2407,aaron martinez,mark rodriguez,A- vs AB+,F vs M,38,43,0.325,no match
+12,18001,connor hansen,jeffrey phillips,A+ vs O+,F vs M,75,11,0.126,no match
+12,48294,connor hansen,anthony gibson,A+ vs AB+,F vs F,75,9,0.217,no match
+12,2402,connor hansen,tami baker,A+ vs A+,F vs F,75,43,0.317,no match
+12,52994,connor hansen,derek stevens,A+ vs A+,F vs M,75,33,0.321,no match
+12,3081,connor hansen,david flynn,A+ vs A+,F vs F,75,88,0.312,no match
+13,39780,robert bauer,sandra lam,AB+ vs O+,F vs F,68,46,0.172,no match
+13,34346,robert bauer,antonio richardson,AB+ vs O+,F vs F,68,35,0.172,no match
+13,21260,robert bauer,melissa miller,AB+ vs B+,F vs F,68,16,0.289,no match
+13,10680,robert bauer,brittney porter,AB+ vs A+,F vs M,68,13,0.198,no match
+13,10387,robert bauer,brian odom,AB+ vs AB-,F vs F,68,17,0.212,no match
+14,704,brooke brady,susan chan,AB+ vs B-,F vs F,44,17,0.131,no match
+14,5608,brooke brady,felicia patrick,AB+ vs O+,F vs M,44,20,0.135,no match
+14,37394,brooke brady,stephanie butler,AB+ vs O+,F vs M,44,32,0.131,no match
+14,46446,brooke brady,cindy hobbs,AB+ vs B-,F vs F,44,52,0.208,no match
+14,51701,brooke brady,rebecca rodriguez,AB+ vs O+,F vs F,44,49,0.234,no match
+15,4625,ms natalie gamble,william rich,AB- vs AB-,F vs F,46,79,0.294,no match
+15,278,ms natalie gamble,michelle pierce,AB- vs O+,F vs F,46,57,0.221,no match
+15,54606,ms natalie gamble,karen soto,AB- vs A+,F vs M,46,18,0.167,no match
+15,16857,ms natalie gamble,brandon whitaker,AB- vs O+,F vs M,46,71,0.135,no match
+15,13758,ms natalie gamble,linda petty,AB- vs A-,F vs M,46,59,0.131,no match
+16,32608,haley perkins,anthony ramirez,A+ vs A+,F vs F,63,22,0.362,no match
+16,9090,haley perkins,jason lawson,A+ vs O+,F vs F,63,16,0.158,no match
+16,43399,haley perkins,ashley carpenter,A+ vs O+,F vs M,63,23,0.248,no match
+16,6986,haley perkins,linda swanson,A+ vs AB-,F vs M,63,32,0.14,no match
+16,21164,haley perkins,lisa kelley,A+ vs O+,F vs M,63,63,0.325,no match
+17,33032,mrs jamie campbell,ruth taylor,AB- vs O+,M vs F,38,27,0.095,no match
+17,40365,mrs jamie campbell,yolanda robinson,AB- vs AB+,M vs F,38,37,0.181,no match
+17,54870,mrs jamie campbell,brenda woods,AB- vs O+,M vs M,38,26,0.199,no match
+17,9535,mrs jamie campbell,evan fuller,AB- vs A+,M vs M,38,45,0.203,no match
+17,26292,mrs jamie campbell,morgan garcia,AB- vs B+,M vs F,38,66,0.144,no match
+18,46041,luke burgess,juan woodward,A- vs A+,F vs F,34,19,0.122,no match
+18,53222,luke burgess,david ryan,A- vs A+,F vs F,34,7,0.09,no match
+18,10076,luke burgess,marie sanchez,A- vs O+,F vs M,34,5,0.144,no match
+18,54066,luke burgess,erin hansen,A- vs A-,F vs F,34,78,0.317,no match
+18,21143,luke burgess,lori anderson,A- vs B+,F vs M,34,42,0.144,no match
+19,8597,daniel schmidt,ronald clark,B+ vs A-,M vs F,63,33,0.14,no match
+19,5688,daniel schmidt,jasmin hammond,B+ vs B+,M vs F,63,54,0.344,no match
+19,8965,daniel schmidt,derrick patterson,B+ vs O+,M vs M,63,54,0.167,no match
+19,24474,daniel schmidt,emily andrews,B+ vs B+,M vs F,63,34,0.348,no match
+19,51373,daniel schmidt,ariana robertson,B+ vs A+,M vs M,63,18,0.172,no match
+20,35142,timothy burns,bradley peters,A- vs B+,F vs M,67,73,0.135,no match
+20,18833,timothy burns,caroline dougherty,A- vs B+,F vs M,67,36,0.176,no match
+20,14898,timothy burns,bobby barnett,A- vs O+,F vs M,67,70,0.207,no match
+20,36414,timothy burns,wesley butler,A- vs AB+,F vs M,67,42,0.171,no match
+20,14658,timothy burns,christopher smith,A- vs O+,F vs M,67,62,0.18,no match
+21,18160,christopher bright,kyle vance,B+ vs A-,M vs M,48,29,0.145,no match
+21,24089,christopher bright,shawn lyons,B+ vs O+,M vs F,48,86,0.095,no match
+21,48295,christopher bright,richard rowe,B+ vs O+,M vs M,48,76,0.262,no match
+21,14667,christopher bright,shannon wallace,B+ vs A+,M vs M,48,25,0.158,no match
+21,50142,christopher bright,daniel frazier,B+ vs O-,M vs M,48,76,0.221,no match
+22,13029,kathryn stewart,ann ford,O+ vs B+,F vs F,58,71,0.208,no match
+22,20887,kathryn stewart,kimberly harrington,O+ vs O-,F vs M,58,26,0.158,no match
+22,46287,kathryn stewart,linda lee,O+ vs B+,F vs F,58,45,0.127,no match
+22,12909,kathryn stewart,robert robinson,O+ vs O-,F vs F,58,64,0.172,no match
+22,8566,kathryn stewart,nicole whitehead,O+ vs B-,F vs M,58,30,0.144,no match
+23,45315,dr eileen thompson,lawrence johnson,A+ vs O+,M vs M,59,57,0.258,no match
+23,33911,dr eileen thompson,victoria hernandez,A+ vs A+,M vs M,59,53,0.326,no match
+23,12006,dr eileen thompson,gary martin,A+ vs A+,M vs F,59,32,0.276,no match
+23,26372,dr eileen thompson,aaron brooks,A+ vs AB+,M vs M,59,47,0.199,no match
+23,776,dr eileen thompson,kimberly williams,A+ vs O+,M vs F,59,37,0.153,no match
+24,45195,paul henderson,joshua bell,AB+ vs O+,F vs F,72,35,0.158,no match
+24,43461,paul henderson,heather thomas,AB+ vs AB+,F vs F,72,53,0.394,no match
+24,2544,paul henderson,dustin cox,AB+ vs A-,F vs M,72,80,0.113,no match
+24,39735,paul henderson,joe garner,AB+ vs A+,F vs M,72,63,0.149,no match
+24,18373,paul henderson,christopher gray,AB+ vs AB-,F vs F,72,25,0.23,no match
+25,42795,peter fitzgerald,joseph williams,AB+ vs A+,M vs M,73,45,0.109,no match
+25,52003,peter fitzgerald,steven harper,AB+ vs B-,M vs M,73,28,0.203,no match
+25,11252,peter fitzgerald,amy rocha,AB+ vs O+,M vs F,73,31,0.108,no match
+25,43394,peter fitzgerald,rodney butler,AB+ vs O+,M vs F,73,57,0.153,no match
+25,27371,peter fitzgerald,mary short,AB+ vs A+,M vs M,73,69,0.154,no match
+26,52581,cathy small,james bailey,O- vs B-,F vs F,51,68,0.208,no match
+26,39808,cathy small,shelly rogers,O- vs O+,F vs F,51,63,0.199,no match
+26,20496,cathy small,timothy hamilton,O- vs O-,F vs F,51,52,0.435,no match
+26,15421,cathy small,anna joseph,O- vs A+,F vs M,51,30,0.122,no match
+26,52946,cathy small,angela summers,O- vs AB-,F vs F,51,57,0.194,no match
+27,19929,mr kenneth moore,joe brown,A+ vs O+,F vs F,34,88,0.194,no match
+27,7046,mr kenneth moore,david johnson,A+ vs O+,F vs M,34,20,0.095,no match
+27,4334,mr kenneth moore,latoya garcia,A+ vs B+,F vs F,34,13,0.113,no match
+27,23119,mr kenneth moore,christopher smith md,A+ vs A+,F vs F,34,51,0.348,no match
+27,52791,mr kenneth moore,edward smith,A+ vs O+,F vs M,34,55,0.131,no match
+28,814,mary hunter,eric collins,O- vs A-,F vs M,38,90,0.117,no match
+28,16567,mary hunter,tamara johnson,O- vs A+,F vs M,38,68,0.216,no match
+28,14159,mary hunter,richard lee,O- vs B+,F vs F,38,64,0.212,no match
+28,2675,mary hunter,christopher keller,O- vs O-,F vs M,38,87,0.335,no match
+28,13234,mary hunter,karen morris,O- vs AB-,F vs F,38,44,0.208,no match
+29,19579,joshua oliver,douglas wilson,B+ vs O+,F vs F,63,57,0.217,no match
+29,21272,joshua oliver,vanessa hogan dds,B+ vs O+,F vs F,63,30,0.23,no match
+29,35158,joshua oliver,patricia rodriguez,B+ vs B+,F vs M,63,46,0.294,no match
+29,601,joshua oliver,jason thompson,B+ vs B+,F vs M,63,45,0.285,no match
+29,42984,joshua oliver,thomas boyd,B+ vs O-,F vs M,63,47,0.113,no match
+30,41842,thomas martinez,kevin shea,B- vs O+,M vs M,34,54,0.23,no match
+30,21955,thomas martinez,juan welch,B- vs A+,M vs M,34,39,0.194,no match
+30,43501,thomas martinez,bobby miles,B- vs O+,M vs M,34,37,0.34,no match
+30,27519,thomas martinez,thomas delacruz,B- vs O+,M vs M,34,90,0.352,no match
+30,37805,thomas martinez,samantha russell,B- vs A+,M vs M,34,60,0.226,no match
+31,9559,james patterson,mallory tran,A+ vs O+,F vs F,23,41,0.217,no match
+31,7010,james patterson,stephanie harrison,A+ vs A+,F vs F,23,51,0.362,no match
+31,14773,james patterson,amanda hernandez,A+ vs O-,F vs M,23,71,0.176,no match
+31,10553,james patterson,erin wallace,A+ vs O+,F vs F,23,59,0.185,no match
+31,54041,james patterson,amy ramos,A+ vs A+,F vs F,23,44,0.389,no match
+32,29631,william cooper,david carpenter,AB- vs O+,M vs M,78,5,0.234,no match
+32,5682,william cooper,james bailey,AB- vs O+,M vs F,78,48,0.14,no match
+32,1600,william cooper,maria carter,AB- vs B+,M vs M,78,63,0.257,no match
+32,1323,william cooper,sara green,AB- vs A+,M vs M,78,31,0.263,no match
+32,23017,william cooper,kristin gilbert,AB- vs AB+,M vs M,78,87,0.203,no match
+33,16271,erin ortega,melissa torres,AB- vs O+,M vs M,43,25,0.266,no match
+33,1170,erin ortega,holly andersen,AB- vs O+,M vs M,43,13,0.23,no match
+33,36216,erin ortega,amanda green,AB- vs A-,M vs M,43,21,0.208,no match
+33,31344,erin ortega,brandy fox,AB- vs A+,M vs M,43,53,0.221,no match
+33,55051,erin ortega,gregory gomez,AB- vs O+,M vs M,43,50,0.239,no match
+34,41205,nicole rodriguez,jasmine morgan,AB+ vs A+,F vs F,30,51,0.23,no match
+34,17876,nicole rodriguez,edwin miller,AB+ vs AB+,F vs F,30,36,0.362,no match
+34,12885,nicole rodriguez,michelle day,AB+ vs B+,F vs M,30,72,0.131,no match
+34,37004,nicole rodriguez,bryan williams,AB+ vs A+,F vs M,30,58,0.122,no match
+34,53007,nicole rodriguez,yvonne rice,AB+ vs O+,F vs F,30,88,0.248,no match
+35,23673,david anderson,virginia harris,AB+ vs B+,F vs F,25,51,0.234,no match
+35,49660,david anderson,antonio brown,AB+ vs B+,F vs M,25,64,0.167,no match
+35,1025,david anderson,ryan harris,AB+ vs B+,F vs F,25,18,0.23,no match
+35,31792,david anderson,linda allen,AB+ vs O+,F vs M,25,77,0.216,no match
+35,29631,david anderson,david carpenter,AB+ vs O+,F vs M,25,5,0.31,no match
+36,22935,denise torres,michael wolfe,AB+ vs AB-,M vs F,33,78,0.171,no match
+36,22812,denise torres,dr tammy garcia dds,AB+ vs O+,M vs M,33,57,0.19,no match
+36,49764,denise torres,anna hernandez,AB+ vs B-,M vs F,33,11,0.135,no match
+36,6843,denise torres,jennifer sanford,AB+ vs O-,M vs F,33,52,0.216,no match
+36,5546,denise torres,hannah taylor,AB+ vs AB-,M vs F,33,39,0.171,no match
+37,9656,cassandra robinson,steven davis,B- vs A+,F vs F,26,51,0.199,no match
+37,25367,cassandra robinson,erin gilbert,B- vs A+,F vs M,26,36,0.09,no match
+37,44678,cassandra robinson,charles christian,B- vs A+,F vs M,26,64,0.207,no match
+37,11150,cassandra robinson,karen goodwin,B- vs O+,F vs F,26,81,0.267,no match
+37,8756,cassandra robinson,christopher smith dds,B- vs A+,F vs F,26,71,0.167,no match
+38,26943,nicole lucero,dennis morales,O- vs O+,F vs F,70,19,0.248,no match
+38,15765,nicole lucero,jeff harvey,O- vs O+,F vs M,70,26,0.113,no match
+38,42279,nicole lucero,stacy lee,O- vs A+,F vs M,70,50,0.162,no match
+38,53828,nicole lucero,rebecca huynh,O- vs AB-,F vs M,70,89,0.104,no match
+38,28284,nicole lucero,vincent johnson,O- vs O+,F vs M,70,64,0.162,no match
+39,42023,pamela fernandez,anthony holt,B- vs A+,F vs F,57,70,0.18,no match
+39,15697,pamela fernandez,andrew munoz,B- vs B+,F vs F,57,76,0.243,no match
+39,34029,pamela fernandez,john romero,B- vs A+,F vs F,57,66,0.185,no match
+39,18015,pamela fernandez,mark wilson,B- vs O+,F vs F,57,26,0.149,no match
+39,26675,pamela fernandez,michael holloway,B- vs A+,F vs F,57,30,0.19,no match
+40,3533,christopher lee,michelle wallace,B- vs O+,F vs M,74,87,0.176,no match
+40,9835,christopher lee,jordan james,B- vs A+,F vs F,74,18,0.149,no match
+40,8273,christopher lee,christian lopez,B- vs B-,F vs M,74,57,0.42,no match
+40,48523,christopher lee,jessica lucas,B- vs A+,F vs F,74,67,0.145,no match
+40,51002,christopher lee,jamie lamb,B- vs B-,F vs M,74,23,0.294,no match
+41,38305,thomas morse,kim hardy,A+ vs AB+,M vs M,81,35,0.18,no match
+41,9105,thomas morse,terry snow,A+ vs A+,M vs F,81,64,0.272,no match
+41,53251,thomas morse,angela johnson,A+ vs O-,M vs F,81,58,0.14,no match
+41,26464,thomas morse,adam henderson,A+ vs A-,M vs F,81,75,0.14,no match
+41,52472,thomas morse,joshua galloway,A+ vs AB-,M vs M,81,50,0.185,no match
+42,38589,mr eric lane,anthony mora,A- vs O-,F vs M,49,60,0.189,no match
+42,9713,mr eric lane,leslie gentry,A- vs O+,F vs M,49,59,0.18,no match
+42,16256,mr eric lane,matthew mercado,A- vs O+,F vs F,49,66,0.217,no match
+42,44924,mr eric lane,jacqueline boyd,A- vs B+,F vs M,49,39,0.135,no match
+42,15054,mr eric lane,jessica gilbert,A- vs O+,F vs F,49,50,0.467,no match
+43,28212,katherine smith,amy davidson,AB+ vs AB-,F vs F,26,79,0.149,no match
+43,2912,katherine smith,patricia watkins,AB+ vs A+,F vs M,26,73,0.176,no match
+43,30378,katherine smith,maria becker,AB+ vs AB+,F vs F,26,54,0.398,no match
+43,12550,katherine smith,andrew miller,AB+ vs AB-,F vs M,26,72,0.194,no match
+43,17652,katherine smith,jennifer williams,AB+ vs A+,F vs F,26,59,0.19,no match
+44,48692,paul williams,michael simmons,AB- vs A-,F vs M,81,61,0.194,no match
+44,2071,paul williams,william smith,AB- vs B+,F vs F,81,13,0.329,no match
+44,45820,paul williams,stephen galloway,AB- vs A-,F vs F,81,68,0.203,no match
+44,50621,paul williams,melissa rogers,AB- vs O+,F vs M,81,13,0.135,no match
+44,2342,paul williams,michele montoya,AB- vs O+,F vs F,81,62,0.145,no match
+45,14360,lynn martinez,jacqueline cooper,O+ vs O+,M vs F,65,37,0.298,no match
+45,12257,lynn martinez,megan khan,O+ vs AB-,M vs F,65,73,0.293,no match
+45,18070,lynn martinez,victor jackson,O+ vs A+,M vs F,65,68,0.249,no match
+45,19293,lynn martinez,david williams,O+ vs A+,M vs F,65,38,0.068,no match
+45,47873,lynn martinez,steven lopez,O+ vs AB+,M vs M,65,44,0.194,no match
+46,16843,christopher chapman,sally dean,O+ vs A+,F vs M,31,77,0.126,no match
+46,47890,christopher chapman,mary cox,O+ vs O+,F vs F,31,57,0.335,no match
+46,38430,christopher chapman,tiffany townsend,O+ vs O+,F vs F,31,36,0.353,no match
+46,41727,christopher chapman,kimberly pena,O+ vs A+,F vs F,31,7,0.163,no match
+46,24003,christopher chapman,christopher montoya,O+ vs A+,F vs M,31,40,0.333,no match
+47,47653,chris frye,larry butler,A- vs O+,M vs F,58,20,0.162,no match
+47,37292,chris frye,carl wood,A- vs O+,M vs M,58,58,0.444,no match
+47,23603,chris frye,sheena castillo,A- vs O-,M vs F,58,15,0.144,no match
+47,43324,chris frye,ian shah md,A- vs O+,M vs M,58,38,0.136,no match
+47,1009,chris frye,katrina warren,A- vs AB+,M vs M,58,37,0.239,no match
+48,33184,kyle bennett,annette guzman,O+ vs O-,M vs M,22,26,0.257,no match
+48,25209,kyle bennett,gregory gonzales,O+ vs A+,M vs M,22,53,0.18,no match
+48,44246,kyle bennett,julie cameron phd,O+ vs O-,M vs F,22,22,0.253,no match
+48,40462,kyle bennett,ryan lee,O+ vs A+,M vs M,22,37,0.23,no match
+48,11053,kyle bennett,lori madden,O+ vs AB-,M vs F,22,68,0.077,no match
+49,53556,brandon collins,jessica walker,O+ vs A+,F vs F,77,43,0.145,no match
+49,6748,brandon collins,james wilkins,O+ vs AB+,F vs F,77,43,0.243,no match
+49,50474,brandon collins,william martinez,O+ vs A+,F vs F,77,56,0.226,no match
+49,46601,brandon collins,melody barrera,O+ vs A+,F vs F,77,69,0.303,no match
+49,13590,brandon collins,julie simon,O+ vs A-,F vs F,77,81,0.303,no match
+50,11303,michael liu,gina diaz,AB- vs B+,M vs M,30,80,0.23,no match
+50,33421,michael liu,zachary rangel,AB- vs O+,M vs M,30,50,0.23,no match
+50,28545,michael liu,tonya bryant,AB- vs O+,M vs M,30,13,0.127,no match
+50,55172,michael liu,victoria medina,AB- vs A+,M vs F,30,57,0.171,no match
+50,34712,michael liu,john hendricks,AB- vs AB+,M vs M,30,33,0.158,no match
+51,46962,stephanie kent,george delgado,A- vs O+,F vs F,42,69,0.18,no match
+51,48719,stephanie kent,sarah cooper,A- vs O+,F vs M,42,66,0.14,no match
+51,39305,stephanie kent,christopher mcgee,A- vs O-,F vs M,42,51,0.144,no match
+51,17341,stephanie kent,jessica howard,A- vs B+,F vs F,42,61,0.145,no match
+51,31287,stephanie kent,james key,A- vs O+,F vs M,42,48,0.117,no match
+52,39896,jesse banks,brandy rodriguez,AB+ vs O+,F vs M,67,12,0.167,no match
+52,14279,jesse banks,alexander salas,AB+ vs AB+,F vs F,67,16,0.371,no match
+52,7348,jesse banks,nicole martin,AB+ vs B-,F vs F,67,7,0.199,no match
+52,28243,jesse banks,annette cooper,AB+ vs A+,F vs M,67,28,0.144,no match
+52,45223,jesse banks,jesse spence,AB+ vs AB+,F vs M,67,77,0.429,no match
+53,36479,peggy lee,mark wood,A- vs AB+,F vs M,24,50,0.05,no match
+53,27716,peggy lee,christopher mcdonald,A- vs B-,F vs M,24,28,0.163,no match
+53,33974,peggy lee,rebecca jones,A- vs B-,F vs F,24,19,0.172,no match
+53,3385,peggy lee,kevin cobb,A- vs B+,F vs F,24,47,0.145,no match
+53,13042,peggy lee,vanessa watkins,A- vs O+,F vs F,24,36,0.127,no match
+54,52606,tamara hernandez,christine williams,B- vs O+,F vs F,84,71,0.234,no match
+54,44144,tamara hernandez,sarah humphrey,B- vs AB-,F vs F,84,77,0.262,no match
+54,32200,tamara hernandez,mrs maria kirby,B- vs B-,F vs F,84,50,0.376,no match
+54,21137,tamara hernandez,patrick sanders,B- vs O+,F vs F,84,45,0.226,no match
+54,42042,tamara hernandez,david taylor,B- vs O+,F vs M,84,25,0.194,no match
+55,35886,mr david pierce md,derrick armstrong,A- vs A-,F vs F,73,48,0.38,no match
+55,35763,mr david pierce md,daniel ryan,A- vs A+,F vs M,73,70,0.153,no match
+55,22386,mr david pierce md,zachary pierce,A- vs A+,F vs F,73,73,0.42,no match
+55,50383,mr david pierce md,carol lee,A- vs B-,F vs F,73,59,0.217,no match
+55,41715,mr david pierce md,kathleen wright,A- vs B+,F vs F,73,57,0.158,no match
+56,48964,bethany moore,heather rios,A+ vs AB+,F vs M,55,55,0.28,no match
+56,47842,bethany moore,tammy mills,A+ vs AB+,F vs M,55,43,0.113,no match
+56,13474,bethany moore,marie white,A+ vs B+,F vs F,55,89,0.163,no match
+56,47865,bethany moore,james mathis,A+ vs O-,F vs M,55,53,0.208,no match
+56,241,bethany moore,john perez,A+ vs A+,F vs F,55,61,0.394,no match
+57,47954,michael mills,diane buchanan phd,O- vs A-,M vs F,23,58,0.144,no match
+57,32357,michael mills,gary mitchell,O- vs A+,M vs M,23,46,0.293,no match
+57,44984,michael mills,paula rivera,O- vs O+,M vs F,23,48,0.144,no match
+57,11142,michael mills,zoe arnold,O- vs AB+,M vs M,23,54,0.167,no match
+57,4561,michael mills,christina sellers,O- vs A+,M vs M,23,28,0.262,no match
+58,20123,kyle wiley,mrs nichole sharp,AB- vs O+,F vs M,40,80,0.135,no match
+58,2643,kyle wiley,victor benjamin,AB- vs A+,F vs F,40,12,0.158,no match
+58,1404,kyle wiley,amy white,AB- vs A+,F vs F,40,13,0.289,no match
+58,2564,kyle wiley,david guerra,AB- vs A+,F vs M,40,50,0.181,no match
+58,34051,kyle wiley,deborah mccall,AB- vs O-,F vs F,40,49,0.163,no match
+59,18069,jacqueline jordan,matthew gould,O+ vs A+,M vs F,51,61,0.122,no match
+59,5330,jacqueline jordan,michael wagner,O+ vs O+,M vs M,51,29,0.376,no match
+59,43499,jacqueline jordan,kurt oconnor,O+ vs B-,M vs M,51,18,0.176,no match
+59,16785,jacqueline jordan,alexander barnes,O+ vs A-,M vs F,51,27,0.189,no match
+59,31739,jacqueline jordan,mr michael schmidt md,O+ vs B+,M vs M,51,82,0.194,no match
+60,50463,ashley gutierrez,christopher owens,AB+ vs O+,M vs M,83,68,0.185,no match
+60,28129,ashley gutierrez,linda davis,AB+ vs A+,M vs F,83,56,0.135,no match
+60,32523,ashley gutierrez,alexis goodwin,AB+ vs O-,M vs F,83,50,0.18,no match
+60,51217,ashley gutierrez,daniel english,AB+ vs B-,M vs F,83,12,0.149,no match
+60,52961,ashley gutierrez,benjamin jones,AB+ vs A+,M vs F,83,62,0.09,no match
+61,11051,kim scott,neil day,A- vs O+,M vs M,63,37,0.104,no match
+61,37385,kim scott,lindsey haynes,A- vs A+,M vs F,63,57,0.077,no match
+61,12263,kim scott,stephanie andrade,A- vs O+,M vs F,63,42,0.104,no match
+61,34560,kim scott,donna jordan,A- vs A+,M vs F,63,27,0.086,no match
+61,44681,kim scott,nathan ramos,A- vs AB-,M vs M,63,59,0.285,no match
+62,19754,travis carter,jason harris,A+ vs AB-,M vs M,18,52,0.266,no match
+62,47528,travis carter,sarah thompson,A+ vs O+,M vs F,18,82,0.167,no match
+62,26694,travis carter,kevin gonzalez,A+ vs O+,M vs F,18,79,0.167,no match
+62,13412,travis carter,jennifer blair,A+ vs B+,M vs M,18,78,0.185,no match
+62,42406,travis carter,kenneth smith,A+ vs B+,M vs M,18,61,0.154,no match
+63,45015,larry rodgers,joseph dodson,B- vs B-,F vs M,23,31,0.254,no match
+63,47207,larry rodgers,jared phillips,B- vs A+,F vs M,23,27,0.135,no match
+63,7219,larry rodgers,claudia santos,B- vs B+,F vs M,23,72,0.167,no match
+63,53765,larry rodgers,james graham,B- vs O+,F vs F,23,18,0.194,no match
+63,18399,larry rodgers,joseph ward,B- vs O+,F vs M,23,38,0.113,no match
+64,5027,nancy glover,jared gillespie,A- vs A-,M vs F,58,82,0.317,no match
+64,49735,nancy glover,alyssa phillips,A- vs O+,M vs F,58,64,0.068,no match
+64,9293,nancy glover,kevin adams,A- vs O+,M vs F,58,11,0.077,no match
+64,23411,nancy glover,tyler morrison,A- vs AB+,M vs F,58,49,0.14,no match
+64,15002,nancy glover,jane alexander,A- vs O-,M vs F,58,52,0.207,no match
+65,47949,jessica king,chelsey ray,AB- vs B+,M vs F,27,62,0.117,no match
+65,41550,jessica king,shawn butler,AB- vs B-,M vs M,27,52,0.199,no match
+65,7683,jessica king,emily underwood,AB- vs B+,M vs F,27,40,0.135,no match
+65,44893,jessica king,thomas gibson,AB- vs A+,M vs F,27,45,0.072,no match
+65,670,jessica king,lisa jackson,AB- vs A+,M vs F,27,16,0.249,no match
+66,23576,christopher gonzalez,richard barker,B+ vs O+,M vs F,59,44,0.131,no match
+66,45881,christopher gonzalez,cathy mcintosh,B+ vs A-,M vs F,59,19,0.158,no match
+66,33824,christopher gonzalez,diane wolf,B+ vs B+,M vs F,59,56,0.298,no match
+66,1439,christopher gonzalez,grace hawkins,B+ vs A-,M vs M,59,45,0.158,no match
+66,38265,christopher gonzalez,donald duarte,B+ vs O+,M vs F,59,62,0.135,no match
+67,12094,john hartman,larry oconnor,B- vs B-,M vs F,27,17,0.33,no match
+67,23812,john hartman,mark herrera,B- vs O+,M vs M,27,37,0.199,no match
+67,24013,john hartman,michael kelly,B- vs O+,M vs F,27,14,0.072,no match
+67,53353,john hartman,lisa bell,B- vs O+,M vs F,27,48,0.045,no match
+67,52609,john hartman,ashley harper,B- vs O+,M vs F,27,33,0.108,no match
+68,23892,michael miller,dennis soto,B+ vs AB+,M vs F,31,13,0.072,no match
+68,201,michael miller,mary hunt,B+ vs O+,M vs M,31,33,0.307,no match
+68,21492,michael miller,jerry brown,B+ vs O+,M vs F,31,73,0.108,no match
+68,9740,michael miller,richard kelly,B+ vs B+,M vs F,31,31,0.416,no match
+68,31805,michael miller,kevin kelley,B+ vs O+,M vs F,31,15,0.14,no match
+69,25022,erica myers,sarah bryant,A+ vs A+,F vs M,19,72,0.307,no match
+69,24136,erica myers,lisa rivera,A+ vs AB-,F vs F,19,50,0.253,no match
+69,15920,erica myers,elizabeth dickerson,A+ vs B+,F vs F,19,34,0.199,no match
+69,49052,erica myers,erin mccann,A+ vs O-,F vs F,19,20,0.353,no match
+69,18955,erica myers,charles perry,A+ vs A+,F vs F,19,53,0.389,no match
+70,46434,carol patterson,david barnes,O+ vs AB-,F vs M,29,26,0.135,no match
+70,3311,carol patterson,alexandria williams,O+ vs O+,F vs M,29,59,0.28,no match
+70,1266,carol patterson,leah martinez,O+ vs AB+,F vs M,29,85,0.162,no match
+70,18242,carol patterson,victoria morris,O+ vs O-,F vs F,29,42,0.172,no match
+70,29713,carol patterson,dr carolyn petersen,O+ vs O+,F vs M,29,51,0.47,no match
+71,23997,jose lopez,taylor silva,A- vs B+,M vs M,18,74,0.212,no match
+71,53306,jose lopez,matthew thomas,A- vs O+,M vs M,18,33,0.163,no match
+71,31421,jose lopez,sarah archer,A- vs A+,M vs F,18,15,0.081,no match
+71,7123,jose lopez,angela perry,A- vs B+,M vs M,18,82,0.212,no match
+71,22791,jose lopez,gabriel blair,A- vs A+,M vs F,18,49,0.077,no match
+72,47527,kevin simmons jr,stephen neal,AB- vs AB+,M vs M,24,28,0.18,no match
+72,49334,kevin simmons jr,charles hodges iii,AB- vs O+,M vs M,24,68,0.18,no match
+72,28772,kevin simmons jr,karen fuller,AB- vs AB-,M vs M,24,27,0.362,no match
+72,36837,kevin simmons jr,dr zachary carr,AB- vs A+,M vs F,24,28,0.086,no match
+72,13289,kevin simmons jr,jasmine estrada,AB- vs O+,M vs M,24,80,0.194,no match
+73,12161,duane haney,dustin carrillo,AB- vs O+,M vs M,27,73,0.154,no match
+73,38762,duane haney,sean hopkins,AB- vs A+,M vs M,27,44,0.208,no match
+73,53246,duane haney,ashley taylor,AB- vs O-,M vs F,27,27,0.289,no match
+73,41852,duane haney,alexis dickerson,AB- vs A+,M vs F,27,74,0.135,no match
+73,24049,duane haney,willie small,AB- vs B-,M vs M,27,33,0.167,no match
+74,20437,jonathan yates,cody avery,AB- vs AB-,F vs F,57,60,0.312,no match
+74,55088,jonathan yates,jennifer middleton,AB- vs B+,F vs F,57,58,0.44,no match
+74,18669,jonathan yates,patricia zamora,AB- vs AB-,F vs F,57,61,0.353,no match
+74,13737,jonathan yates,mrs michelle mclaughlin,AB- vs A+,F vs F,57,16,0.194,no match
+74,38919,jonathan yates,gina mccann,AB- vs A+,F vs F,57,12,0.194,no match
+75,33947,john thomas,mr robert navarro jr,A+ vs B+,F vs F,74,59,0.167,no match
+75,51584,john thomas,mr frederick lee,A+ vs A+,F vs M,74,28,0.217,no match
+75,50962,john thomas,timothy robertson,A+ vs O+,F vs M,74,10,0.162,no match
+75,30226,john thomas,matthew blake,A+ vs AB-,F vs M,74,38,0.113,no match
+75,25527,john thomas,trevor nguyen,A+ vs B+,F vs F,74,75,0.298,no match
+76,52962,adrian buckley,christine walker,A- vs A+,F vs M,22,44,0.18,no match
+76,36063,adrian buckley,michael harper,A- vs A+,F vs M,22,41,0.162,no match
+76,11654,adrian buckley,jorge hernandez,A- vs B-,F vs F,22,66,0.203,no match
+76,54304,adrian buckley,thomas fitzpatrick,A- vs A+,F vs M,22,82,0.24,no match
+76,27334,adrian buckley,louis richards,A- vs A+,F vs M,22,26,0.095,no match
+77,16873,april santiago,mary johnson,B- vs O+,F vs M,33,53,0.104,no match
+77,50280,april santiago,timothy holmes,B- vs O+,F vs M,33,78,0.162,no match
+77,22138,april santiago,jill calhoun,B- vs A+,F vs M,33,58,0.14,no match
+77,7798,april santiago,ellen smith,B- vs A+,F vs M,33,84,0.144,no match
+77,44192,april santiago,karen simmons,B- vs B+,F vs F,33,70,0.248,no match
+78,24092,diane schultz,shelby lester,B+ vs A+,M vs F,57,50,0.171,no match
+78,31253,diane schultz,scott bullock,B+ vs A+,M vs F,57,38,0.14,no match
+78,11754,diane schultz,alexis warren,B+ vs A+,M vs F,57,89,0.204,no match
+78,22955,diane schultz,jessica hutchinson,B+ vs B+,M vs M,57,39,0.444,no match
+78,51770,diane schultz,jonathan alexander,B+ vs O+,M vs F,57,47,0.144,no match
+79,54253,timothy myers,cathy brown,B+ vs O+,M vs M,61,6,0.239,no match
+79,51299,timothy myers,sara chandler,B+ vs AB-,M vs M,61,6,0.154,no match
+79,28541,timothy myers,tina martinez,B+ vs A-,M vs F,61,62,0.271,no match
+79,43513,timothy myers,monique wells,B+ vs O+,M vs F,61,78,0.104,no match
+79,32199,timothy myers,rebecca brown,B+ vs B-,M vs M,61,56,0.118,no match
+80,2866,nicole hughes,deborah allen,O+ vs O+,M vs M,20,80,0.303,no match
+80,32074,nicole hughes,christy brown,O+ vs A+,M vs M,20,20,0.218,no match
+80,22649,nicole hughes,jillian baker,O+ vs B-,M vs F,20,12,0.14,no match
+80,16329,nicole hughes,laura horton,O+ vs A+,M vs F,20,28,0.108,no match
+80,53154,nicole hughes,ryan wilson,O+ vs O+,M vs F,20,57,0.263,no match
+81,36182,chad moreno,nicole hansen,AB+ vs O+,M vs M,67,24,0.239,no match
+81,50322,chad moreno,william mays,AB+ vs AB-,M vs F,67,33,0.117,no match
+81,1172,chad moreno,greg white,AB+ vs AB+,M vs M,67,64,0.285,no match
+81,50645,chad moreno,andre woods,AB+ vs A+,M vs M,67,76,0.253,no match
+81,48037,chad moreno,curtis arnold,AB+ vs B-,M vs F,67,40,0.149,no match
+82,7733,sean jennings,william larson,AB- vs O+,F vs F,80,53,0.149,no match
+82,24116,sean jennings,michelle lee,AB- vs O+,F vs M,80,16,0.108,no match
+82,19656,sean jennings,erik mcclain,AB- vs A+,F vs F,80,80,0.33,no match
+82,9694,sean jennings,destiny martin,AB- vs B-,F vs F,80,70,0.248,no match
+82,31636,sean jennings,erin aguirre,AB- vs A+,F vs F,80,62,0.194,no match
+83,36646,diane branch,brianna frederick,O+ vs B+,M vs F,44,90,0.216,no match
+83,47202,diane branch,steven smith,O+ vs A+,M vs F,44,66,0.113,no match
+83,38377,diane branch,kevin moran,O+ vs O+,M vs M,44,54,0.357,no match
+83,52895,diane branch,amber lawson,O+ vs A+,M vs F,44,40,0.189,no match
+83,11544,diane branch,mary martinez,O+ vs AB-,M vs F,44,84,0.144,no match
+84,31573,cindy orozco,mary green,B- vs O-,F vs M,26,49,0.122,no match
+84,51260,cindy orozco,sharon mendoza,B- vs AB-,F vs F,26,80,0.221,no match
+84,33724,cindy orozco,alex jones,B- vs AB+,F vs M,26,53,0.081,no match
+84,16207,cindy orozco,anthony brooks,B- vs A+,F vs F,26,45,0.257,no match
+84,9260,cindy orozco,cassandra simmons,B- vs B+,F vs F,26,60,0.203,no match
+85,25059,patricia medina,allison johnson,AB+ vs AB-,M vs M,80,59,0.14,no match
+85,35981,patricia medina,robert brown,AB+ vs B+,M vs M,80,56,0.149,no match
+85,16397,patricia medina,mrs barbara mitchell dvm,AB+ vs AB+,M vs M,80,43,0.317,no match
+85,10299,patricia medina,dylan simon,AB+ vs A+,M vs F,80,10,0.14,no match
+85,3712,patricia medina,roger merritt,AB+ vs B-,M vs M,80,37,0.212,no match
+86,40015,kayla padilla,david wilkerson,B- vs B-,M vs M,63,28,0.33,no match
+86,12061,kayla padilla,sean howard,B- vs B+,M vs F,63,23,0.113,no match
+86,4771,kayla padilla,matthew phillips,B- vs O+,M vs F,63,14,0.184,no match
+86,37200,kayla padilla,kayla kirby,B- vs O+,M vs M,63,52,0.329,no match
+86,35325,kayla padilla,larry sparks,B- vs AB+,M vs M,63,29,0.23,no match
+87,1981,juan klein,thomas lopez,B- vs A-,F vs M,58,13,0.181,no match
+87,49187,juan klein,andrea davis,B- vs A+,F vs F,58,34,0.212,no match
+87,24584,juan klein,guy tate,B- vs A+,F vs M,58,66,0.149,no match
+87,41087,juan klein,marilyn powell,B- vs A+,F vs M,58,46,0.149,no match
+87,48938,juan klein,matthew welch,B- vs AB-,F vs F,58,64,0.167,no match
+88,9641,william hill,holly watts,A+ vs B-,F vs F,38,43,0.284,no match
+88,8528,william hill,kevin avila,A+ vs O+,F vs M,38,48,0.158,no match
+88,3755,william hill,jordan mcdonald,A+ vs A+,F vs F,38,49,0.268,no match
+88,20678,william hill,leslie williams,A+ vs AB+,F vs M,38,65,0.333,no match
+88,14166,william hill,tammie pitts,A+ vs A-,F vs F,38,5,0.199,no match
+89,52387,carl best,catherine thomas,B+ vs A+,M vs F,60,22,0.108,no match
+89,9798,carl best,jeffery rodriguez,B+ vs O+,M vs M,60,71,0.154,no match
+89,10806,carl best,patricia black,B+ vs A+,M vs M,60,62,0.307,no match
+89,31125,carl best,kelly solis,B+ vs O+,M vs F,60,45,0.135,no match
+89,43381,carl best,mary johnson,B+ vs A+,M vs M,60,70,0.221,no match
+90,48221,tina griffin,tamara ramirez,B+ vs AB+,M vs F,49,42,0.171,no match
+90,31188,tina griffin,jade boyd,B+ vs AB-,M vs M,49,48,0.386,no match
+90,30838,tina griffin,marissa walsh,B+ vs B+,M vs M,49,76,0.344,no match
+90,9858,tina griffin,gregory hoover,B+ vs O+,M vs F,49,7,0.104,no match
+90,8770,tina griffin,gary wagner,B+ vs O+,M vs F,49,18,0.158,no match
+91,16305,mr tyler taylor phd,ryan molina,A+ vs A+,M vs F,80,51,0.272,no match
+91,30618,mr tyler taylor phd,patrick perry,A+ vs O+,M vs F,80,58,0.171,no match
+91,35501,mr tyler taylor phd,daniel mitchell,A+ vs O-,M vs M,80,40,0.208,no match
+91,8114,mr tyler taylor phd,hannah tran,A+ vs A-,M vs F,80,55,0.149,no match
+91,24822,mr tyler taylor phd,andrew ellis,A+ vs O+,M vs F,80,89,0.117,no match
+92,9074,taylor howell dds,zachary matthews,B+ vs O+,F vs M,35,81,0.135,no match
+92,24499,taylor howell dds,james ross,B+ vs B-,F vs M,35,60,0.099,no match
+92,10050,taylor howell dds,william alvarez,B+ vs O+,F vs F,35,84,0.19,no match
+92,36324,taylor howell dds,david hunt,B+ vs AB-,F vs M,35,78,0.167,no match
+92,23287,taylor howell dds,mr steven wilson,B+ vs O+,F vs F,35,79,0.185,no match
+93,16296,michael martin,danielle moore phd,A+ vs A+,M vs F,84,77,0.289,no match
+93,6080,michael martin,kathleen coleman,A+ vs O-,M vs M,84,75,0.23,no match
+93,14092,michael martin,elaine tran,A+ vs AB-,M vs F,84,23,0.28,no match
+93,28600,michael martin,gail clay,A+ vs A+,M vs F,84,73,0.307,no match
+93,35846,michael martin,pamela harris,A+ vs O+,M vs M,84,60,0.284,no match
+94,33045,heather miller,tom lewis,A+ vs A+,M vs M,76,40,0.317,no match
+94,39594,heather miller,nathan ayala,A+ vs O+,M vs F,76,62,0.104,no match
+94,32750,heather miller,terri knight,A+ vs A+,M vs M,76,19,0.371,no match
+94,30447,heather miller,william welch,A+ vs O+,M vs M,76,51,0.248,no match
+94,28595,heather miller,matthew martinez,A+ vs AB-,M vs M,76,68,0.23,no match
+95,21275,catherine gardner,joseph martinez,A- vs AB+,F vs M,79,12,0.171,no match
+95,32428,catherine gardner,jack richardson,A- vs A-,F vs M,79,27,0.348,no match
+95,10683,catherine gardner,donna brewer,A- vs O+,F vs M,79,84,0.253,no match
+95,24385,catherine gardner,james wall,A- vs O+,F vs M,79,80,0.235,no match
+95,18656,catherine gardner,katelyn wolf,A- vs B+,F vs M,79,42,0.153,no match
+96,3001,anne thompson,angela may,O+ vs O-,F vs M,76,59,0.194,no match
+96,51129,anne thompson,haley good,O+ vs O+,F vs F,76,66,0.277,no match
+96,20054,anne thompson,katrina dyer,O+ vs O+,F vs M,76,71,0.294,no match
+96,855,anne thompson,lisa keller,O+ vs B-,F vs F,76,67,0.163,no match
+96,20618,anne thompson,luis wright,O+ vs O+,F vs F,76,80,0.377,no match
+97,10759,todd cooper,justin burch,A+ vs A+,F vs F,55,89,0.317,no match
+97,11634,todd cooper,glenda lam,A+ vs A+,F vs M,55,29,0.235,no match
+97,6642,todd cooper,angelica stewart,A+ vs B-,F vs F,55,13,0.185,no match
+97,12072,todd cooper,jason trevino,A+ vs O+,F vs M,55,15,0.149,no match
+97,20601,todd cooper,courtney gomez,A+ vs B-,F vs M,55,75,0.18,no match
+98,11981,phillip lyons,melissa gomez,B- vs O+,M vs F,53,45,0.14,no match
+98,20571,phillip lyons,paul haas,B- vs A-,M vs F,53,45,0.162,no match
+98,18223,phillip lyons,stephanie suarez,B- vs O+,M vs F,53,61,0.126,no match
+98,31787,phillip lyons,justin elliott,B- vs A+,M vs F,53,18,0.135,no match
+98,44178,phillip lyons,michael oliver,B- vs A+,M vs M,53,58,0.185,no match
+99,50539,mark ford,lisa fisher,B+ vs O+,M vs F,18,59,0.18,no match
+99,49873,mark ford,reginald garcia,B+ vs A+,M vs M,18,67,0.163,no match
+99,34919,mark ford,tyler torres,B+ vs O+,M vs F,18,24,0.171,no match
+99,55383,mark ford,jessica carter,B+ vs B-,M vs M,18,70,0.167,no match
+99,11025,mark ford,theodore torres,B+ vs B+,M vs M,18,21,0.348,no match
+100,23593,marcus zamora,elaine wood,O+ vs O-,M vs M,69,16,0.163,no match
+100,9285,marcus zamora,kelsey martinez,O+ vs B-,M vs M,69,87,0.18,no match
+100,20876,marcus zamora,heather cowan,O+ vs O+,M vs M,69,12,0.339,no match
+100,9474,marcus zamora,christopher cooper,O+ vs O+,M vs F,69,72,0.394,no match
+100,33128,marcus zamora,eric tucker,O+ vs O+,M vs M,69,15,0.348,no match
+101,2874,katie henry,teresa gomez,B+ vs AB+,M vs M,70,23,0.208,no match
+101,18849,katie henry,tanya christian,B+ vs A+,M vs F,70,39,0.14,no match
+101,24194,katie henry,sandra jennings,B+ vs O+,M vs F,70,17,0.14,no match
+101,9674,katie henry,deanna lee,B+ vs O+,M vs F,70,10,0.171,no match
+101,28001,katie henry,kimberly horn,B+ vs O+,M vs M,70,20,0.375,no match
+102,32380,william morton,brenda gardner,A+ vs B+,M vs F,21,45,0.131,no match
+102,38177,william morton,barry cruz,A+ vs B-,M vs F,21,35,0.077,no match
+102,41925,william morton,melissa dennis,A+ vs O+,M vs F,21,72,0.162,no match
+102,29640,william morton,stephen white,A+ vs O-,M vs M,21,12,0.217,no match
+102,45629,william morton,katherine bush,A+ vs O+,M vs F,21,40,0.063,no match
+103,11902,katrina martin,angela sanchez,A- vs B-,M vs M,47,25,0.344,no match
+103,3918,katrina martin,dakota welch,A- vs B+,M vs M,47,16,0.19,no match
+103,51532,katrina martin,william flores,A- vs O+,M vs M,47,33,0.18,no match
+103,47809,katrina martin,john mcgrath,A- vs A+,M vs M,47,6,0.221,no match
+103,47215,katrina martin,monica brock,A- vs B-,M vs F,47,54,0.14,no match
+104,32070,hunter mckay,robin smith,A- vs B+,M vs F,85,7,0.117,no match
+104,19091,hunter mckay,cynthia jackson,A- vs O-,M vs M,85,25,0.217,no match
+104,51356,hunter mckay,jeffrey banks,A- vs O-,M vs M,85,78,0.194,no match
+104,46025,hunter mckay,angela miller,A- vs A+,M vs F,85,41,0.144,no match
+104,12744,hunter mckay,scott wagner,A- vs B-,M vs F,85,20,0.113,no match
+105,18148,dwayne davis,benjamin wiggins,O+ vs O+,M vs M,28,29,0.462,no match
+105,35330,dwayne davis,cathy jefferson,O+ vs B+,M vs M,28,15,0.149,no match
+105,17054,dwayne davis,jennifer fischer,O+ vs B-,M vs F,28,11,0.162,no match
+105,23590,dwayne davis,sharon peterson,O+ vs O-,M vs M,28,52,0.185,no match
+105,37074,dwayne davis,max gutierrez,O+ vs AB+,M vs M,28,70,0.158,no match
+106,29878,sarah caldwell,jason brooks,A- vs B+,M vs M,62,27,0.118,no match
+106,15980,sarah caldwell,nathan thompson,A- vs AB+,M vs F,62,62,0.195,no match
+106,1898,sarah caldwell,charles mcdowell,A- vs B-,M vs F,62,49,0.239,no match
+106,12465,sarah caldwell,andrea wade,A- vs AB+,M vs M,62,78,0.23,no match
+106,43558,sarah caldwell,margaret brown,A- vs A-,M vs M,62,79,0.362,no match
+107,43467,david higgins,david glover,B- vs A+,F vs M,49,59,0.266,no match
+107,10043,david higgins,timothy turner,B- vs B-,F vs M,49,18,0.249,no match
+107,14529,david higgins,aimee liu,B- vs O+,F vs F,49,55,0.212,no match
+107,20995,david higgins,tina miller,B- vs A+,F vs M,49,8,0.149,no match
+107,48041,david higgins,stefanie rhodes,B- vs B-,F vs M,49,28,0.244,no match
+108,48210,bradley combs,brett herrera,AB- vs A+,M vs M,52,40,0.19,no match
+108,9419,bradley combs,tyler owens,AB- vs A+,M vs M,52,70,0.127,no match
+108,22921,bradley combs,henry leon,AB- vs B+,M vs M,52,68,0.208,no match
+108,4170,bradley combs,sheila brewer,AB- vs A+,M vs F,52,14,0.171,no match
+108,45520,bradley combs,hector williams,AB- vs A+,M vs M,52,11,0.212,no match
+109,25894,christina schmitt,jenna andrews,B+ vs O-,M vs F,53,7,0.122,no match
+109,33249,christina schmitt,dr brian woods,B+ vs A+,M vs M,53,78,0.194,no match
+109,48953,christina schmitt,michael daniel,B+ vs A+,M vs F,53,61,0.117,no match
+109,54280,christina schmitt,allison cochran,B+ vs A+,M vs F,53,42,0.171,no match
+109,17323,christina schmitt,cheryl wilcox,B+ vs A-,M vs F,53,54,0.249,no match
+110,15892,colton strong,david mcdowell,AB- vs O+,M vs F,55,6,0.099,no match
+110,3495,colton strong,yvette mcconnell,AB- vs A+,M vs M,55,15,0.203,no match
+110,27265,colton strong,mary kelly,AB- vs O+,M vs M,55,7,0.167,no match
+110,26951,colton strong,michele pratt,AB- vs A+,M vs M,55,10,0.19,no match
+110,20160,colton strong,leonard johnson,AB- vs AB-,M vs F,55,72,0.344,no match
+111,47959,mark price,john patton,B- vs A+,M vs F,18,24,0.086,no match
+111,42809,mark price,tracy hunter,B- vs B+,M vs M,18,37,0.212,no match
+111,43782,mark price,patrick page,B- vs O+,M vs F,18,63,0.248,no match
+111,52289,mark price,maria browning,B- vs A+,M vs M,18,77,0.199,no match
+111,39460,mark price,april adams,B- vs O+,M vs M,18,66,0.266,no match
+112,38937,suzanne schneider,pamela harris,AB- vs A+,M vs M,52,19,0.199,no match
+112,36891,suzanne schneider,david miller,AB- vs AB+,M vs M,52,77,0.176,no match
+112,40153,suzanne schneider,roberta mcbride,AB- vs B-,M vs M,52,47,0.371,no match
+112,37736,suzanne schneider,brian bailey,AB- vs A+,M vs F,52,64,0.153,no match
+112,32345,suzanne schneider,phillip wood,AB- vs B+,M vs F,52,35,0.095,no match
+113,29763,michael hurley,paula weiss,AB- vs O+,M vs M,67,47,0.194,no match
+113,13231,michael hurley,angela jones,AB- vs O+,M vs F,67,16,0.104,no match
+113,32194,michael hurley,paige haley,AB- vs AB+,M vs F,67,31,0.252,no match
+113,46109,michael hurley,marisa villa,AB- vs A+,M vs F,67,39,0.14,no match
+113,35722,michael hurley,tracey osborne,AB- vs O-,M vs F,67,35,0.162,no match
+114,38047,lindsey lambert,victoria walker,A+ vs B-,F vs M,82,46,0.122,no match
+114,43853,lindsey lambert,dwayne woodward,A+ vs O+,F vs F,82,79,0.172,no match
+114,3796,lindsey lambert,logan barber,A+ vs A+,F vs F,82,8,0.434,no match
+114,20928,lindsey lambert,michael pierce,A+ vs O+,F vs M,82,26,0.153,no match
+114,52275,lindsey lambert,nicole blackwell,A+ vs A+,F vs F,82,21,0.376,no match
+115,30970,rebecca parsons,john frost,O+ vs O+,F vs F,37,23,0.344,no match
+115,17666,rebecca parsons,alan richardson,O+ vs O+,F vs M,37,60,0.33,no match
+115,28568,rebecca parsons,gina cooper,O+ vs O-,F vs F,37,73,0.19,no match
+115,22202,rebecca parsons,richard werner,O+ vs O+,F vs M,37,71,0.303,no match
+115,39425,rebecca parsons,katie holland,O+ vs A-,F vs M,37,38,0.381,no match
+116,35864,judy johnson,jeffery perry,AB- vs A-,F vs F,52,36,0.158,no match
+116,43278,judy johnson,cassandra gray,AB- vs O+,F vs M,52,41,0.14,no match
+116,7496,judy johnson,david morales,AB- vs A+,F vs F,52,18,0.122,no match
+116,2162,judy johnson,mary flores,AB- vs A-,F vs F,52,60,0.208,no match
+116,20844,judy johnson,brian travis,AB- vs B+,F vs F,52,49,0.127,no match
+117,27001,tonya campbell,brent phillips md,B+ vs B+,F vs F,37,21,0.317,no match
+117,26949,tonya campbell,joe lopez,B+ vs A+,F vs M,37,59,0.117,no match
+117,18593,tonya campbell,lori snyder,B+ vs A+,F vs M,37,79,0.144,no match
+117,51384,tonya campbell,troy morgan,B+ vs AB-,F vs F,37,69,0.23,no match
+117,39110,tonya campbell,randy evans,B+ vs B+,F vs M,37,23,0.294,no match
+118,21139,james ross,shelly hoffman,A+ vs A+,F vs M,83,33,0.263,no match
+118,36346,james ross,troy wagner,A+ vs O+,F vs M,83,38,0.131,no match
+118,8492,james ross,tonya henderson,A+ vs A+,F vs F,83,26,0.344,no match
+118,11873,james ross,samantha rogers,A+ vs B+,F vs F,83,47,0.194,no match
+118,54427,james ross,stephen gallagher,A+ vs O+,F vs F,83,58,0.285,no match
+119,10004,sara cook,priscilla carlson,O- vs A+,M vs M,33,60,0.221,no match
+119,1503,sara cook,nicholas garcia,O- vs B-,M vs F,33,86,0.113,no match
+119,17996,sara cook,joel flores,O- vs O-,M vs M,33,57,0.29,no match
+119,34012,sara cook,kelsey cooke,O- vs O+,M vs F,33,48,0.257,no match
+119,42884,sara cook,natalie hartman,O- vs A+,M vs M,33,37,0.163,no match
+120,43219,anne howell,tim barton,A- vs B+,F vs F,22,70,0.18,no match
+120,43464,anne howell,carrie taylor,A- vs B-,F vs F,22,40,0.199,no match
+120,48024,anne howell,kimberly bowman,A- vs O+,F vs M,22,40,0.171,no match
+120,40516,anne howell,michaela roberts,A- vs O+,F vs M,22,88,0.167,no match
+120,11156,anne howell,shannon vance,A- vs B+,F vs F,22,39,0.239,no match
+121,46587,renee bailey,derek jennings,B+ vs AB-,F vs M,19,80,0.14,no match
+121,17399,renee bailey,curtis sanchez,B+ vs B+,F vs F,19,9,0.339,no match
+121,18781,renee bailey,cheryl walker,B+ vs O+,F vs M,19,62,0.144,no match
+121,49179,renee bailey,cory parker,B+ vs A+,F vs F,19,11,0.208,no match
+121,46817,renee bailey,joshua newman,B+ vs A-,F vs M,19,52,0.144,no match
+122,50383,jeffrey turner,carol lee,O+ vs B-,F vs F,85,59,0.167,no match
+122,49203,jeffrey turner,juan flores,O+ vs A+,F vs M,85,63,0.216,no match
+122,38540,jeffrey turner,daniel johnson,O+ vs O-,F vs F,85,20,0.145,no match
+122,40414,jeffrey turner,mckenzie williams,O+ vs O+,F vs M,85,36,0.235,no match
+122,25486,jeffrey turner,leah mccormick,O+ vs A+,F vs F,85,64,0.145,no match
+123,33710,dr lauren clark dds,david smith,B+ vs O+,M vs M,19,70,0.14,no match
+123,5492,dr lauren clark dds,susan cowan,B+ vs O-,M vs F,19,75,0.18,no match
+123,55299,dr lauren clark dds,kevin robinson,B+ vs O-,M vs M,19,42,0.158,no match
+123,46377,dr lauren clark dds,aaron ortiz,B+ vs AB+,M vs F,19,73,0.122,no match
+123,36774,dr lauren clark dds,melvin morgan,B+ vs O-,M vs M,19,73,0.19,no match
+124,44400,terry thomas,daniel ward,B- vs O+,F vs F,50,36,0.167,no match
+124,54310,terry thomas,bradley park,B- vs A-,F vs M,50,56,0.149,no match
+124,29978,terry thomas,patrick lewis,B- vs O+,F vs F,50,46,0.158,no match
+124,34193,terry thomas,zachary clarke,B- vs A+,F vs M,50,24,0.14,no match
+124,32255,terry thomas,judy cox,B- vs B-,F vs F,50,58,0.245,no match
+125,4547,jason baker,jesse fisher,O- vs O+,F vs F,50,77,0.243,no match
+125,46317,jason baker,wendy villa,O- vs O+,F vs F,50,51,0.421,no match
+125,43725,jason baker,douglas wood,O- vs A+,F vs F,50,89,0.167,no match
+125,40382,jason baker,jennifer woodward,O- vs A-,F vs F,50,59,0.18,no match
+125,28005,jason baker,eugene braun,O- vs A+,F vs M,50,71,0.158,no match
+126,37033,jessica gutierrez,stephen parker,O+ vs B-,M vs F,40,44,0.267,no match
+126,53462,jessica gutierrez,rachel owens,O+ vs O+,M vs M,40,52,0.294,no match
+126,23446,jessica gutierrez,melissa castaneda,O+ vs AB-,M vs F,40,18,0.184,no match
+126,38242,jessica gutierrez,jade smith,O+ vs B+,M vs F,40,8,0.135,no match
+126,38012,jessica gutierrez,lisa bennett,O+ vs A+,M vs F,40,31,0.153,no match
+127,3690,courtney hodges,stanley hunter,AB- vs A-,M vs F,57,16,0.184,no match
+127,1708,courtney hodges,natalie knight,AB- vs B+,M vs M,57,40,0.145,no match
+127,20047,courtney hodges,edward moreno,AB- vs B+,M vs M,57,71,0.18,no match
+127,28467,courtney hodges,collin stewart,AB- vs B-,M vs M,57,35,0.303,no match
+127,22143,courtney hodges,whitney ruiz,AB- vs O-,M vs M,57,79,0.217,no match
+128,35036,anthony reyes,tiffany davis,AB+ vs A-,M vs M,82,61,0.19,no match
+128,46951,anthony reyes,megan porter,AB+ vs O-,M vs F,82,58,0.18,no match
+128,21269,anthony reyes,susan acosta,AB+ vs B+,M vs F,82,60,0.144,no match
+128,30380,anthony reyes,zachary stevens,AB+ vs O+,M vs F,82,72,0.162,no match
+128,18718,anthony reyes,samantha patterson,AB+ vs AB+,M vs F,82,9,0.326,no match
+129,48716,leah cross dds,allison vazquez,AB+ vs A+,M vs M,20,66,0.145,no match
+129,21106,leah cross dds,jodi green,AB+ vs B+,M vs F,20,72,0.113,no match
+129,15127,leah cross dds,cindy butler,AB+ vs AB-,M vs F,20,52,0.104,no match
+129,5938,leah cross dds,michael harding,AB+ vs O+,M vs F,20,70,0.126,no match
+129,13690,leah cross dds,timothy travis,AB+ vs O+,M vs F,20,28,0.095,no match
+130,39356,paul martinez,robert gallagher,B+ vs O+,M vs M,20,40,0.145,no match
+130,38550,paul martinez,meagan snyder,B+ vs AB-,M vs M,20,42,0.19,no match
+130,30181,paul martinez,justin nguyen,B+ vs A+,M vs F,20,36,0.171,no match
+130,33145,paul martinez,melissa parrish,B+ vs A-,M vs M,20,73,0.212,no match
+130,1565,paul martinez,thomas martin,B+ vs O+,M vs F,20,36,0.379,no match
+131,1605,denise rodriguez,kimberly mejia,A- vs A+,F vs F,19,26,0.172,no match
+131,41398,denise rodriguez,jennifer burgess,A- vs B+,F vs M,19,74,0.14,no match
+131,2469,denise rodriguez,carmen campbell,A- vs B+,F vs F,19,41,0.167,no match
+131,15926,denise rodriguez,nicole miller,A- vs A-,F vs M,19,89,0.303,no match
+131,48963,denise rodriguez,ashley diaz,A- vs AB-,F vs M,19,74,0.198,no match
+132,4434,ashley erickson,erica shelton,AB- vs AB-,F vs M,32,31,0.475,no match
+132,48141,ashley erickson,gregory yang,AB- vs A+,F vs M,32,65,0.135,no match
+132,19727,ashley erickson,christopher flowers,AB- vs A+,F vs F,32,50,0.234,no match
+132,18133,ashley erickson,jeffrey dillon,AB- vs A+,F vs F,32,34,0.426,no match
+132,22384,ashley erickson,alicia blackburn,AB- vs AB+,F vs M,32,61,0.176,no match
+133,2395,sean cardenas,eric wells,B- vs A+,M vs M,55,40,0.167,no match
+133,36159,sean cardenas,elizabeth herrera,B- vs A+,M vs F,55,53,0.249,no match
+133,5256,sean cardenas,toni potts,B- vs O+,M vs M,55,77,0.167,no match
+133,11459,sean cardenas,patricia orozco,B- vs B-,M vs F,55,69,0.28,no match
+133,42876,sean cardenas,linda scott,B- vs AB+,M vs F,55,15,0.149,no match
+134,29459,alan alvarez,kara jones,B+ vs A+,M vs M,81,65,0.212,no match
+134,50918,alan alvarez,whitney garza,B+ vs O+,M vs F,81,38,0.144,no match
+134,32882,alan alvarez,regina zuniga,B+ vs A+,M vs M,81,25,0.158,no match
+134,28284,alan alvarez,vincent johnson,B+ vs O+,M vs M,81,64,0.185,no match
+134,52746,alan alvarez,bryan robinson,B+ vs B-,M vs F,81,68,0.14,no match
+135,6178,jessica phillips,terry kline,O- vs A+,M vs F,26,36,0.068,no match
+135,7091,jessica phillips,jose martin,O- vs A+,M vs M,26,84,0.185,no match
+135,10519,jessica phillips,peter adkins,O- vs O+,M vs M,26,79,0.145,no match
+135,8362,jessica phillips,kenneth jennings,O- vs O+,M vs F,26,30,0.14,no match
+135,55436,jessica phillips,cindy perkins,O- vs O+,M vs F,26,61,0.153,no match
+136,34871,timothy coleman,tanner ramirez,AB+ vs B-,F vs M,54,29,0.095,no match
+136,4768,timothy coleman,kari rios,AB+ vs O+,F vs M,54,63,0.149,no match
+136,37395,timothy coleman,justin nunez,AB+ vs A+,F vs F,54,50,0.118,no match
+136,34684,timothy coleman,carl harrington,AB+ vs AB+,F vs M,54,42,0.33,no match
+136,31189,timothy coleman,alexandra berger,AB+ vs A+,F vs M,54,66,0.144,no match
+137,34570,christina woods,victoria smith,B- vs AB-,M vs F,57,17,0.153,no match
+137,9193,christina woods,cindy graham,B- vs B-,M vs M,57,35,0.435,no match
+137,1359,christina woods,thomas arnold,B- vs A+,M vs F,57,62,0.162,no match
+137,2700,christina woods,catherine joseph,B- vs A-,M vs M,57,44,0.284,no match
+137,23648,christina woods,kimberly savage,B- vs B-,M vs F,57,39,0.24,no match
+138,50669,melissa scott,donna reeves,AB+ vs A+,F vs M,38,42,0.258,no match
+138,34899,melissa scott,philip williams,AB+ vs A+,F vs F,38,26,0.18,no match
+138,3615,melissa scott,barry wilkinson,AB+ vs A+,F vs F,38,45,0.18,no match
+138,8035,melissa scott,elijah foster,AB+ vs O+,F vs F,38,79,0.293,no match
+138,1461,melissa scott,christopher green,AB+ vs AB-,F vs M,38,27,0.09,no match
+139,19935,gary hopkins,sylvia bryant,O+ vs B-,M vs F,54,84,0.144,no match
+139,50098,gary hopkins,james williams,O+ vs O+,M vs F,54,9,0.289,no match
+139,35766,gary hopkins,jennifer castillo,O+ vs O-,M vs F,54,78,0.095,no match
+139,3180,gary hopkins,belinda garcia,O+ vs AB+,M vs M,54,55,0.44,no match
+139,31616,gary hopkins,daniel thomas,O+ vs O-,M vs F,54,37,0.18,no match
+140,18677,april valencia,matthew martinez,A+ vs A+,M vs M,42,67,0.38,no match
+140,40337,april valencia,leslie hill,A+ vs O+,M vs F,42,22,0.216,no match
+140,38892,april valencia,joshua adams,A+ vs A-,M vs F,42,37,0.104,no match
+140,37941,april valencia,michael gomez,A+ vs O+,M vs M,42,42,0.249,no match
+140,37322,april valencia,amy anderson,A+ vs B+,M vs M,42,52,0.221,no match
+141,8353,rita archer,karen rivera,O- vs O+,M vs F,20,54,0.275,no match
+141,19410,rita archer,melanie hughes,O- vs O+,M vs F,20,42,0.144,no match
+141,52677,rita archer,mark cox,O- vs A+,M vs M,20,48,0.194,no match
+141,35552,rita archer,tim carpenter,O- vs O+,M vs F,20,44,0.225,no match
+141,22395,rita archer,chris murray,O- vs A+,M vs M,20,70,0.284,no match
+142,6986,kim pena,linda swanson,O- vs AB-,F vs M,44,32,0.131,no match
+142,21804,kim pena,morgan frazier,O- vs O+,F vs M,44,38,0.122,no match
+142,11385,kim pena,jack morris,O- vs A+,F vs M,44,88,0.095,no match
+142,37505,kim pena,emily johnson,O- vs A+,F vs F,44,75,0.18,no match
+142,48708,kim pena,julie petersen,O- vs O+,F vs F,44,57,0.253,no match
+143,42640,jason foley,brian jones,B+ vs B+,M vs M,54,55,0.462,no match
+143,20985,jason foley,calvin brown,B+ vs A+,M vs F,54,21,0.158,no match
+143,42284,jason foley,erin stanley,B+ vs A+,M vs F,54,55,0.258,no match
+143,10630,jason foley,robert vang,B+ vs AB-,M vs M,54,10,0.253,no match
+143,24242,jason foley,joseph brown,B+ vs AB+,M vs M,54,57,0.208,no match
+144,23546,shaun guzman,ashley ramirez,AB- vs A+,F vs F,21,35,0.19,no match
+144,15379,shaun guzman,madison salas,AB- vs A+,F vs F,21,47,0.266,no match
+144,26494,shaun guzman,grant hughes,AB- vs A+,F vs M,21,47,0.225,no match
+144,22024,shaun guzman,angela franco,AB- vs AB-,F vs F,21,76,0.38,no match
+144,12423,shaun guzman,edward rose,AB- vs A+,F vs M,21,48,0.117,no match
+145,3467,matthew white,edward ramirez,AB+ vs AB-,F vs M,45,44,0.267,no match
+145,46760,matthew white,elizabeth roman,AB+ vs A-,F vs M,45,25,0.131,no match
+145,21045,matthew white,mary rivera,AB+ vs O+,F vs M,45,39,0.189,no match
+145,33917,matthew white,thomas johnson,AB+ vs O+,F vs F,45,70,0.149,no match
+145,19148,matthew white,dr patrick martin,AB+ vs A+,F vs F,45,63,0.199,no match
+146,44269,alexis wilson,hunter hopkins,B+ vs AB+,F vs M,68,58,0.135,no match
+146,39489,alexis wilson,carl montgomery,B+ vs O+,F vs F,68,41,0.212,no match
+146,48760,alexis wilson,vanessa jackson,B+ vs O+,F vs F,68,64,0.18,no match
+146,17990,alexis wilson,vanessa flores,B+ vs O+,F vs M,68,38,0.167,no match
+146,55402,alexis wilson,sandy smith,B+ vs O+,F vs F,68,63,0.163,no match
+147,24659,jacqueline marshall,chelsea oneill,A+ vs A+,M vs F,27,79,0.339,no match
+147,12782,jacqueline marshall,joseph johnson,A+ vs AB-,M vs F,27,63,0.135,no match
+147,31056,jacqueline marshall,steven king,A+ vs B+,M vs F,27,77,0.122,no match
+147,20113,jacqueline marshall,rose johnson,A+ vs A+,M vs F,27,71,0.294,no match
+147,3154,jacqueline marshall,michael macdonald,A+ vs O+,M vs M,27,17,0.248,no match
+148,40797,robert higgins,cristina smith,AB- vs O-,M vs M,42,42,0.462,no match
+148,30286,robert higgins,raven gilbert,AB- vs A+,M vs F,42,86,0.198,no match
+148,45558,robert higgins,melissa conner,AB- vs A+,M vs F,42,59,0.095,no match
+148,18696,robert higgins,amanda white,AB- vs A+,M vs M,42,72,0.154,no match
+148,12783,robert higgins,robert little,AB- vs A+,M vs M,42,83,0.334,no match
+149,1968,sierra morton,hector clay,B- vs A+,F vs M,27,55,0.113,no match
+149,6909,sierra morton,adam smith,B- vs B+,F vs M,27,59,0.158,no match
+149,25115,sierra morton,william clarke,B- vs A+,F vs F,27,54,0.185,no match
+149,1453,sierra morton,theresa wright,B- vs A+,F vs F,27,51,0.185,no match
+149,8288,sierra morton,michelle anderson,B- vs O+,F vs F,27,61,0.23,no match
+150,12027,natalie stanton,krista hudson,B+ vs A+,M vs M,80,40,0.212,no match
+150,9550,natalie stanton,michelle haynes,B+ vs O+,M vs F,80,57,0.09,no match
+150,14065,natalie stanton,mr marvin douglas ii,B+ vs B-,M vs M,80,23,0.18,no match
+150,42908,natalie stanton,tammy freeman,B+ vs O+,M vs M,80,52,0.18,no match
+150,11414,natalie stanton,jamie rose,B+ vs A+,M vs M,80,52,0.23,no match
+151,50853,jessica acevedo,grace rogers,O+ vs O+,M vs F,21,53,0.348,no match
+151,16541,jessica acevedo,raymond hanna,O+ vs AB+,M vs F,21,5,0.095,no match
+151,8512,jessica acevedo,shannon mclean,O+ vs A+,M vs F,21,86,0.153,no match
+151,49458,jessica acevedo,melanie bennett,O+ vs A+,M vs F,21,20,0.399,no match
+151,17415,jessica acevedo,dr megan thompson,O+ vs B+,M vs M,21,26,0.163,no match
+152,47993,jennifer mcmillan,katherine gomez,A- vs O+,F vs M,84,66,0.14,no match
+152,55359,jennifer mcmillan,thomas stone,A- vs AB-,F vs M,84,51,0.153,no match
+152,1292,jennifer mcmillan,cheryl foster,A- vs O-,F vs F,84,78,0.172,no match
+152,11885,jennifer mcmillan,abigail williams,A- vs O-,F vs M,84,75,0.162,no match
+152,155,jennifer mcmillan,melinda richards,A- vs A+,F vs M,84,37,0.135,no match
+153,37224,christopher mcclain,annette arnold,O- vs A+,F vs F,67,89,0.185,no match
+153,12189,christopher mcclain,kevin roberts,O- vs O+,F vs F,67,46,0.163,no match
+153,35165,christopher mcclain,john smith,O- vs O-,F vs M,67,86,0.303,no match
+153,42325,christopher mcclain,dr julie parrish,O- vs B+,F vs M,67,35,0.153,no match
+153,28837,christopher mcclain,cheryl smith,O- vs A+,F vs F,67,20,0.253,no match
+154,39344,kevin hicks,ethan robinson,AB+ vs O+,M vs F,66,29,0.144,no match
+154,10218,kevin hicks,heather friedman,AB+ vs A+,M vs F,66,42,0.099,no match
+154,9798,kevin hicks,jeffery rodriguez,AB+ vs O+,M vs M,66,71,0.113,no match
+154,7030,kevin hicks,betty hansen,AB+ vs O+,M vs M,66,61,0.208,no match
+154,42256,kevin hicks,jason mueller,AB+ vs O+,M vs M,66,37,0.163,no match
+155,22973,melinda richards,emily matthews,A- vs O+,F vs F,37,54,0.199,no match
+155,36050,melinda richards,richard martin,A- vs A+,F vs M,37,62,0.329,no match
+155,18229,melinda richards,danielle duncan,A- vs O+,F vs F,37,54,0.194,no match
+155,28756,melinda richards,anthony burke,A- vs A+,F vs F,37,47,0.145,no match
+155,52948,melinda richards,charles castillo,A- vs A+,F vs F,37,34,0.248,no match
+156,50871,robyn miranda,francisco martinez,A- vs A+,F vs M,30,20,0.176,no match
+156,44691,robyn miranda,rebecca green,A- vs O+,F vs M,30,22,0.171,no match
+156,44662,robyn miranda,connor harris,A- vs A+,F vs F,30,23,0.154,no match
+156,32575,robyn miranda,james thompson,A- vs O+,F vs F,30,88,0.185,no match
+156,17240,robyn miranda,chad andrews,A- vs A+,F vs F,30,44,0.194,no match
+157,17344,scott castillo,kayla robinson,O+ vs O+,M vs M,78,34,0.362,no match
+157,39040,scott castillo,dr selena thompson,O+ vs AB+,M vs F,78,51,0.14,no match
+157,31403,scott castillo,timothy williams,O+ vs B+,M vs F,78,59,0.149,no match
+157,10999,scott castillo,brenda coleman,O+ vs AB-,M vs F,78,62,0.131,no match
+157,41636,scott castillo,marcia moore,O+ vs O+,M vs F,78,78,0.539,no match
+158,43507,john garcia,christopher campbell,A+ vs AB-,F vs M,39,14,0.144,no match
+158,13187,john garcia,lori jones,A+ vs A+,F vs F,39,66,0.43,no match
+158,33689,john garcia,jennifer wiley,A+ vs A+,F vs M,39,44,0.222,no match
+158,4580,john garcia,krystal johnson,A+ vs O+,F vs M,39,42,0.14,no match
+158,28839,john garcia,stacie fisher,A+ vs A-,F vs F,39,12,0.163,no match
+159,4060,michael taylor,susan taylor,O- vs A+,M vs M,29,70,0.352,no match
+159,24040,michael taylor,becky jones,O- vs AB-,M vs M,29,42,0.158,no match
+159,6148,michael taylor,mark bishop,O- vs O+,M vs M,29,64,0.23,no match
+159,50976,michael taylor,anna baker,O- vs AB-,M vs M,29,61,0.199,no match
+159,28053,michael taylor,george rowe,O- vs B+,M vs F,29,12,0.108,no match
+160,20543,jeffrey wood,jesse oconnell,AB- vs AB+,F vs M,81,48,0.207,no match
+160,26011,jeffrey wood,anne lee,AB- vs B+,F vs M,81,23,0.09,no match
+160,34068,jeffrey wood,eric holden,AB- vs O+,F vs F,81,64,0.243,no match
+160,10562,jeffrey wood,jennifer mitchell,AB- vs AB-,F vs M,81,23,0.303,no match
+160,4070,jeffrey wood,terrance barry,AB- vs O+,F vs M,81,61,0.104,no match
+161,53275,michael smith,john lewis,AB- vs A-,F vs F,66,55,0.167,no match
+161,4584,michael smith,jennifer washington,AB- vs B+,F vs M,66,79,0.171,no match
+161,13269,michael smith,david jones,AB- vs B+,F vs M,66,24,0.113,no match
+161,32262,michael smith,lori craig,AB- vs O+,F vs M,66,43,0.158,no match
+161,28509,michael smith,leonard duffy,AB- vs AB-,F vs F,66,63,0.236,no match
+162,8764,william griffith,bruce miller,B- vs B+,M vs M,65,19,0.212,no match
+162,15869,william griffith,jessica kennedy,B- vs B+,M vs M,65,62,0.109,no match
+162,30752,william griffith,melissa andrews,B- vs O+,M vs M,65,36,0.194,no match
+162,35598,william griffith,rachel smith,B- vs AB-,M vs F,65,65,0.381,no match
+162,38888,william griffith,dr sarah king,B- vs A+,M vs M,65,60,0.176,no match
+163,52049,christina lawrence,gregory harrison,AB- vs A+,M vs F,80,81,0.381,no match
+163,12566,christina lawrence,christopher hensley,AB- vs A+,M vs M,80,61,0.293,no match
+163,29539,christina lawrence,aaron owen,AB- vs B-,M vs F,80,56,0.194,no match
+163,12872,christina lawrence,matthew barr,AB- vs A+,M vs F,80,72,0.122,no match
+163,15336,christina lawrence,brian tucker,AB- vs B+,M vs M,80,39,0.23,no match
+164,15567,jessica holmes,wendy newton,O- vs A+,F vs F,72,78,0.154,no match
+164,36325,jessica holmes,jeanette wall,O- vs A-,F vs F,72,56,0.149,no match
+164,33752,jessica holmes,madison kennedy,O- vs A+,F vs M,72,35,0.095,no match
+164,38010,jessica holmes,jordan butler,O- vs AB-,F vs M,72,59,0.167,no match
+164,18297,jessica holmes,victoria king,O- vs O-,F vs F,72,35,0.335,no match
+165,51227,tracey greene,kristine aguilar,O- vs A+,M vs M,85,51,0.203,no match
+165,43054,tracey greene,john cook,O- vs A+,M vs M,85,37,0.09,no match
+165,1632,tracey greene,ruth adams,O- vs AB-,M vs M,85,22,0.127,no match
+165,32129,tracey greene,debra taylor,O- vs AB-,M vs F,85,53,0.18,no match
+165,29717,tracey greene,brittney perry,O- vs O-,M vs M,85,63,0.398,no match
+166,17128,amanda lopez,amber ramirez,O+ vs O+,F vs F,68,45,0.38,no match
+166,9875,amanda lopez,richard garcia,O+ vs O+,F vs F,68,79,0.303,no match
+166,28254,amanda lopez,michael christian,O+ vs A-,F vs M,68,70,0.226,no match
+166,48050,amanda lopez,sherry collier,O+ vs A+,F vs F,68,28,0.118,no match
+166,37048,amanda lopez,rachel ochoa,O+ vs B-,F vs M,68,81,0.113,no match
+167,46509,laura peters,michael barker,A- vs A-,F vs F,56,30,0.339,no match
+167,25816,laura peters,christian mason,A- vs AB+,F vs M,56,21,0.135,no match
+167,47377,laura peters,john howard,A- vs O+,F vs M,56,50,0.117,no match
+167,10457,laura peters,michael ali,A- vs A+,F vs F,56,48,0.167,no match
+167,29176,laura peters,mr matthew wells,A- vs A+,F vs F,56,71,0.212,no match
+168,3789,lauren anderson,stacy rice,O- vs B-,F vs M,53,66,0.108,no match
+168,22080,lauren anderson,brian brown,O- vs AB+,F vs F,53,70,0.221,no match
+168,31787,lauren anderson,justin elliott,O- vs A+,F vs F,53,18,0.203,no match
+168,19817,lauren anderson,james floyd,O- vs O+,F vs M,53,37,0.14,no match
+168,36255,lauren anderson,brian hurst,O- vs AB+,F vs M,53,60,0.171,no match
+169,49278,william campos,terri white,B+ vs B-,F vs M,37,25,0.108,no match
+169,8715,william campos,stephen gomez,B+ vs B-,F vs F,37,58,0.118,no match
+169,53463,william campos,thomas dennis,B+ vs O+,F vs M,37,45,0.099,no match
+169,46328,william campos,molly long,B+ vs A+,F vs F,37,65,0.199,no match
+169,19635,william campos,rachel thomas,B+ vs AB+,F vs F,37,70,0.149,no match
+170,36793,jessica gonzales,derek clarke,O+ vs O+,F vs F,57,20,0.33,no match
+170,17468,jessica gonzales,jorge ross,O+ vs AB-,F vs M,57,63,0.171,no match
+170,34374,jessica gonzales,alan glass,O+ vs O+,F vs F,57,60,0.371,no match
+170,35829,jessica gonzales,brandi lopez,O+ vs O-,F vs F,57,70,0.245,no match
+170,42134,jessica gonzales,patrick lee,O+ vs AB+,F vs M,57,55,0.416,no match
+171,7570,bruce gonzales,monica wyatt,O+ vs O+,M vs M,36,75,0.303,no match
+171,48701,bruce gonzales,jason terry,O+ vs O+,M vs F,36,45,0.258,no match
+171,2719,bruce gonzales,michael bowman,O+ vs O+,M vs M,36,19,0.362,no match
+171,29372,bruce gonzales,david robinson,O+ vs A+,M vs M,36,29,0.18,no match
+171,50980,bruce gonzales,scott brown,O+ vs AB+,M vs F,36,63,0.18,no match
+172,54851,robert walsh,seth marshall,B+ vs O+,F vs M,20,57,0.18,no match
+172,41928,robert walsh,jacqueline odonnell,B+ vs AB-,F vs F,20,56,0.136,no match
+172,54426,robert walsh,carrie chen,B+ vs O+,F vs M,20,50,0.158,no match
+172,40409,robert walsh,garrett jensen,B+ vs A+,F vs F,20,63,0.221,no match
+172,50153,robert walsh,allison benson,B+ vs A-,F vs F,20,18,0.44,no match
+173,21276,lisa lewis,sara potter,O- vs O-,M vs M,83,20,0.371,no match
+173,35908,lisa lewis,alexis williams,O- vs AB-,M vs F,83,80,0.438,no match
+173,26327,lisa lewis,jennifer wong,O- vs A-,M vs F,83,35,0.117,no match
+173,30517,lisa lewis,charles le,O- vs B+,M vs F,83,75,0.225,no match
+173,24297,lisa lewis,derek murray,O- vs A-,M vs F,83,32,0.122,no match
+174,27339,william ruiz,heather schmidt,B+ vs O+,M vs M,79,28,0.149,no match
+174,8871,william ruiz,joshua smith,B+ vs A+,M vs M,79,15,0.163,no match
+174,4292,william ruiz,tiffany bell,B+ vs B+,M vs M,79,70,0.348,no match
+174,44379,william ruiz,scott kelly,B+ vs B-,M vs F,79,41,0.077,no match
+174,17177,william ruiz,manuel espinoza,B+ vs AB+,M vs M,79,19,0.185,no match
+175,15421,steven baldwin,anna joseph,O+ vs A+,M vs M,62,30,0.23,no match
+175,20629,steven baldwin,dennis hernandez,O+ vs O+,M vs F,62,21,0.298,no match
+175,12086,steven baldwin,kevin sampson,O+ vs A+,M vs M,62,30,0.217,no match
+175,48759,steven baldwin,todd gutierrez,O+ vs AB-,M vs M,62,37,0.145,no match
+175,47153,steven baldwin,katie olson,O+ vs O+,M vs F,62,81,0.33,no match
+176,24028,megan colon,jennifer singleton,AB+ vs A+,M vs F,38,34,0.126,no match
+176,24487,megan colon,dana williams,AB+ vs A+,M vs M,38,55,0.163,no match
+176,45563,megan colon,jonathan jones,AB+ vs A+,M vs F,38,52,0.144,no match
+176,1164,megan colon,devin harmon,AB+ vs B-,M vs F,38,54,0.158,no match
+176,299,megan colon,chad huff,AB+ vs AB+,M vs F,38,23,0.24,no match
+177,20724,kimberly brooks,eric kramer,B- vs O-,F vs M,75,15,0.207,no match
+177,10806,kimberly brooks,patricia black,B- vs A+,F vs M,75,62,0.126,no match
+177,48804,kimberly brooks,christopher smith,B- vs O+,F vs F,75,48,0.163,no match
+177,35824,kimberly brooks,anthony gonzalez,B- vs B-,F vs M,75,49,0.235,no match
+177,47709,kimberly brooks,larry reed,B- vs A+,F vs M,75,35,0.108,no match
+178,48110,edward smith jr,kelly collins,A+ vs B+,M vs F,28,34,0.032,no match
+178,21752,edward smith jr,dr robert wilson jr,A+ vs O-,M vs M,28,51,0.234,no match
+178,5047,edward smith jr,mark shaw,A+ vs AB+,M vs F,28,51,0.189,no match
+178,8413,edward smith jr,courtney stewart,A+ vs O-,M vs F,28,87,0.144,no match
+178,22034,edward smith jr,steven taylor,A+ vs O+,M vs M,28,68,0.145,no match
+179,49731,allison cordova,paula price,O- vs A+,M vs M,36,48,0.19,no match
+179,50599,allison cordova,craig christensen,O- vs O-,M vs F,36,69,0.348,no match
+179,7266,allison cordova,yvonne gross,O- vs O+,M vs M,36,19,0.149,no match
+179,27325,allison cordova,janet lewis,O- vs O-,M vs M,36,25,0.339,no match
+179,28681,allison cordova,bradley miller,O- vs O+,M vs M,36,61,0.176,no match
+180,12054,linda thomas,dr brandon duffy md,AB+ vs A+,M vs M,54,35,0.167,no match
+180,17257,linda thomas,cassandra mullen,AB+ vs O+,M vs F,54,82,0.162,no match
+180,55333,linda thomas,matthew beck,AB+ vs A-,M vs F,54,83,0.113,no match
+180,32619,linda thomas,kimberly snyder,AB+ vs O+,M vs M,54,46,0.149,no match
+180,42293,linda thomas,shelby conner,AB+ vs A+,M vs F,54,23,0.108,no match
+181,36934,parker moore,henry taylor jr,B- vs B-,F vs M,81,11,0.285,no match
+181,39755,parker moore,willie anderson,B- vs A+,F vs M,81,55,0.099,no match
+181,3841,parker moore,lori cook,B- vs A-,F vs M,81,29,0.171,no match
+181,52971,parker moore,steven west,B- vs O+,F vs F,81,47,0.167,no match
+181,21793,parker moore,jennifer meyer,B- vs A+,F vs M,81,40,0.14,no match
+182,55013,tanya soto,anthony carrillo,AB+ vs A+,F vs M,56,55,0.421,no match
+182,16243,tanya soto,morgan ramirez,AB+ vs O+,F vs M,56,70,0.149,no match
+182,44221,tanya soto,karen gonzales,AB+ vs A-,F vs M,56,69,0.149,no match
+182,34508,tanya soto,douglas scott,AB+ vs O+,F vs F,56,59,0.208,no match
+182,34522,tanya soto,nicole molina,AB+ vs A+,F vs F,56,60,0.167,no match
+183,20862,michael jordan,stephanie brown,AB- vs O-,M vs M,30,50,0.234,no match
+183,17864,michael jordan,andrew klein,AB- vs A-,M vs M,30,67,0.19,no match
+183,52320,michael jordan,kathy proctor,AB- vs O+,M vs F,30,18,0.099,no match
+183,36423,michael jordan,yvonne hernandez,AB- vs A+,M vs M,30,11,0.199,no match
+183,27200,michael jordan,james king,AB- vs O+,M vs M,30,69,0.199,no match
+184,47437,christina martin,kenneth anderson,A- vs O-,F vs F,64,74,0.19,no match
+184,27256,christina martin,william simmons,A- vs A+,F vs F,64,68,0.194,no match
+184,5080,christina martin,christine campbell,A- vs O+,F vs M,64,66,0.462,no match
+184,626,christina martin,susan hurley,A- vs AB+,F vs M,64,47,0.162,no match
+184,22559,christina martin,lori davis,A- vs A+,F vs F,64,43,0.221,no match
+185,13497,tracy burke,joseph stephenson,A+ vs O+,M vs F,76,41,0.095,no match
+185,54767,tracy burke,jennifer flores,A+ vs A+,M vs F,76,64,0.289,no match
+185,4737,tracy burke,james cummings,A+ vs O+,M vs M,76,77,0.408,no match
+185,22402,tracy burke,suzanne marsh,A+ vs A-,M vs F,76,79,0.113,no match
+185,28847,tracy burke,mr jermaine sanchez,A+ vs A+,M vs M,76,70,0.38,no match
+186,37207,david spence,sarah mayo,AB+ vs B-,F vs F,21,43,0.172,no match
+186,15735,david spence,justin may,AB+ vs B+,F vs M,21,60,0.081,no match
+186,36763,david spence,randall little,AB+ vs B+,F vs F,21,69,0.154,no match
+186,50500,david spence,john bradley,AB+ vs A-,F vs M,21,29,0.149,no match
+186,54823,david spence,bruce perez,AB+ vs A+,F vs F,21,53,0.208,no match
+187,3814,joseph foster,george garcia iii,O+ vs A-,F vs F,59,12,0.172,no match
+187,5824,joseph foster,anthony thornton,O+ vs O+,F vs M,59,45,0.276,no match
+187,34656,joseph foster,james davila,O+ vs A+,F vs F,59,43,0.158,no match
+187,12100,joseph foster,robert rodriguez,O+ vs A+,F vs F,59,48,0.234,no match
+187,8824,joseph foster,kristi carter,O+ vs O+,F vs F,59,34,0.371,no match
+188,25393,nicholas hall,brittany warner,A- vs B+,F vs M,31,33,0.195,no match
+188,17434,nicholas hall,amanda cline,A- vs A+,F vs M,31,17,0.144,no match
+188,30262,nicholas hall,heather stanley,A- vs B+,F vs F,31,69,0.312,no match
+188,15907,nicholas hall,lori barry,A- vs B-,F vs M,31,18,0.117,no match
+188,54301,nicholas hall,eric butler,A- vs O+,F vs M,31,29,0.249,no match
+189,19255,christina macias,samuel thomas,O+ vs AB-,F vs F,36,38,0.335,no match
+189,14368,christina macias,christopher santos,O+ vs O+,F vs M,36,50,0.389,no match
+189,30203,christina macias,david walker,O+ vs O+,F vs F,36,51,0.294,no match
+189,48449,christina macias,timothy mack,O+ vs O+,F vs M,36,59,0.28,no match
+189,12986,christina macias,shelby foster,O+ vs A-,F vs M,36,48,0.126,no match
+190,42437,scott jones,brett hayes,B+ vs AB+,F vs M,42,18,0.122,no match
+190,10593,scott jones,gina eaton,B+ vs O+,F vs M,42,60,0.131,no match
+190,2199,scott jones,tyler austin,B+ vs AB-,F vs F,42,71,0.167,no match
+190,18225,scott jones,lori leach,B+ vs B-,F vs F,42,50,0.18,no match
+190,36989,scott jones,alicia chandler,B+ vs A+,F vs F,42,43,0.368,no match
+191,48349,james anderson,mark andrews,AB+ vs AB-,F vs M,18,76,0.243,no match
+191,34276,james anderson,frank ruiz,AB+ vs A+,F vs M,18,61,0.113,no match
+191,23231,james anderson,rebecca austin,AB+ vs AB+,F vs M,18,40,0.312,no match
+191,54220,james anderson,stephanie elliott,AB+ vs B+,F vs F,18,42,0.194,no match
+191,25609,james anderson,jeffrey edwards,AB+ vs AB-,F vs M,18,72,0.184,no match
+192,19755,shaun long,christopher hill md,A+ vs A+,F vs M,62,74,0.244,no match
+192,53324,shaun long,peter mercer,A+ vs O+,F vs M,62,61,0.29,no match
+192,2311,shaun long,edward clark,A+ vs B+,F vs M,62,72,0.122,no match
+192,2676,shaun long,latoya jensen,A+ vs B-,F vs M,62,36,0.117,no match
+192,27658,shaun long,samuel bright,A+ vs B-,F vs F,62,23,0.243,no match
+193,51762,kristina mora,elizabeth allison,AB+ vs AB+,M vs M,53,45,0.348,no match
+193,19355,kristina mora,katrina wilson,AB+ vs AB+,M vs F,53,43,0.384,no match
+193,23943,kristina mora,rhonda jones,AB+ vs B+,M vs M,53,36,0.194,no match
+193,1191,kristina mora,jamie collins,AB+ vs O+,M vs M,53,63,0.19,no match
+193,50845,kristina mora,henry ryan,AB+ vs O+,M vs M,53,41,0.208,no match
+194,15416,joshua richmond,jody schmidt,A+ vs A-,F vs F,82,74,0.384,no match
+194,6413,joshua richmond,renee castro,A+ vs O+,F vs M,82,77,0.135,no match
+194,10142,joshua richmond,alicia scott,A+ vs A+,F vs M,82,30,0.285,no match
+194,43184,joshua richmond,morgan turner,A+ vs O+,F vs F,82,34,0.212,no match
+194,53915,joshua richmond,michael murphy,A+ vs O+,F vs M,82,20,0.153,no match
+195,22510,mark lawrence,andrew hall,O- vs O+,F vs F,19,40,0.239,no match
+195,39100,mark lawrence,jessica gamble,O- vs A+,F vs M,19,38,0.135,no match
+195,33348,mark lawrence,roberto braun,O- vs O+,F vs F,19,70,0.19,no match
+195,908,mark lawrence,amanda morris,O- vs B+,F vs M,19,13,0.171,no match
+195,39406,mark lawrence,dr melissa white,O- vs A+,F vs F,19,49,0.176,no match
+196,29993,john ellis,jennifer cook,A- vs A+,F vs F,83,50,0.167,no match
+196,17537,john ellis,mark smith,A- vs O+,F vs M,83,42,0.09,no match
+196,29464,john ellis,philip torres,A- vs A-,F vs M,83,25,0.307,no match
+196,24758,john ellis,steven perry,A- vs B-,F vs M,83,52,0.122,no match
+196,43869,john ellis,carol morgan,A- vs B+,F vs M,83,69,0.162,no match
+197,11437,mrs tiffany dennis,julie young,O- vs O-,M vs M,26,58,0.294,no match
+197,2322,mrs tiffany dennis,richard allison,O- vs A-,M vs F,26,49,0.262,no match
+197,43977,mrs tiffany dennis,theresa davis,O- vs AB-,M vs F,26,47,0.203,no match
+197,17609,mrs tiffany dennis,bradley beard,O- vs A-,M vs F,26,48,0.144,no match
+197,33150,mrs tiffany dennis,hannah romero,O- vs A+,M vs F,26,31,0.144,no match
+198,33572,cynthia huang,robin gardner,O+ vs O+,M vs M,51,56,0.303,no match
+198,1615,cynthia huang,alyssa gonzalez,O+ vs O+,M vs M,51,77,0.33,no match
+198,24010,cynthia huang,jenna king,O+ vs O+,M vs F,51,50,0.444,no match
+198,10107,cynthia huang,austin ramsey,O+ vs O-,M vs M,51,14,0.19,no match
+198,9925,cynthia huang,melinda cannon,O+ vs O+,M vs F,51,51,0.385,no match
+199,38631,melissa lawrence,tanya moon,O+ vs AB-,M vs M,20,57,0.154,no match
+199,49808,melissa lawrence,sarah rose,O+ vs B+,M vs M,20,49,0.321,no match
+199,1427,melissa lawrence,erica stevens,O+ vs O+,M vs F,20,13,0.303,no match
+199,22427,melissa lawrence,ross sanders,O+ vs B-,M vs M,20,38,0.18,no match
+199,8473,melissa lawrence,daniel krueger,O+ vs A+,M vs M,20,59,0.199,no match
